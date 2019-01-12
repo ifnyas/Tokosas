@@ -24,7 +24,7 @@ public class MainMenu extends ExpandableListActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
-        /* kode untuk membuat list main menu */
+        /* create list main menu */
 
         List<Map<String, String>> groupData = new ArrayList<>();
         List<List<Map<String, String>>> childData = new ArrayList<>();
@@ -340,7 +340,7 @@ public class MainMenu extends ExpandableListActivity {
         });
     }
 
-    /*intent untuk tombol back */
+    /*intent for back button */
     public void toMainActivity(View view) {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
