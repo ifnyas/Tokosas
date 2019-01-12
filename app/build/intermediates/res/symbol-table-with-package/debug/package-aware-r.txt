@@ -853,6 +853,7 @@ layout abc_tooltip
 layout activity_main
 layout main_member
 layout main_menu
+layout member_part
 layout my_account
 layout notification_action
 layout notification_action_tombstone

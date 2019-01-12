@@ -57,6 +57,7 @@
                 android:gravity="center"
                 android:text="Benefit P.A.R.T"
                 android:textSize="16sp"
+                android:onClick="toMemberPart"
                 android:textStyle="bold" />
         </android.support.v7.widget.CardView>
 

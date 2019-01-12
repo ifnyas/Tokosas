@@ -5,25 +5,19 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-public class MainMember extends AppCompatActivity {
+public class MemberPart extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.member_part);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
         getSupportActionBar().hide();
-        setContentView(R.layout.main_member);
     }
 
-    /*intent for back button */
-    public void toMainActivity(View view) {
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
-    }
-
-    /*intent for MemberPart Button */
-    public void toMemberPart(View view) {
-        Intent intent = new Intent(this, MemberPart.class);
+    /*intent to go to My Account */
+    public void toMainMember(View view) {
+        Intent intent = new Intent(this, MainMember.class);
         startActivity(intent);
     }
 }
