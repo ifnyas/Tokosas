@@ -831,6 +831,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout main_menu
+layout main_promo
+layout my_account
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

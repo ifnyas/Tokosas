@@ -26,6 +26,8 @@
             </intent-filter>
         </activity>
         <activity android:name="id.servkit.tokosas.MainMenu" />
+        <activity android:name="id.servkit.tokosas.MyAccount" />
+        <activity android:name="id.servkit.tokosas.MainPromo" />
     </application>
 
 </manifest>
