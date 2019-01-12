@@ -26,4 +26,10 @@ public class MainMember extends AppCompatActivity {
         Intent intent = new Intent(this, MemberPart.class);
         startActivity(intent);
     }
+
+    /*intent for MemberSnk Button */
+    public void toMemberSnk(View view) {
+        Intent intent = new Intent(this, MemberSnk.class);
+        startActivity(intent);
+    }
 }

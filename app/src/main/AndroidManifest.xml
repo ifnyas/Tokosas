@@ -19,7 +19,8 @@
         <activity android:name=".MainMenu" />
         <activity android:name=".MyAccount" />
         <activity android:name=".MainMember" />
-        <activity android:name=".MemberPart"></activity>
+        <activity android:name=".MemberPart" />
+        <activity android:name=".MemberSnk"></activity>
     </application>
 
 </manifest>
