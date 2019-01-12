@@ -629,11 +629,12 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable ic_account_circle_black_24dp
 drawable ic_arrow_back_black_24dp
 drawable ic_card_giftcard_black_24dp
 drawable ic_menu_black_24dp
 drawable ic_person_black_24dp
-drawable ic_store_mall_directory_black_24dp
+drawable ic_store_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -739,6 +740,7 @@ id packed
 id parent
 id parentPanel
 id percent
+id poin
 id progress_circular
 id progress_horizontal
 id radio

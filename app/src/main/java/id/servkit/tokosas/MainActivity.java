@@ -20,4 +20,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);
     }
+
+    /*intent to go to My Account */
+    public void toMyAccount(View view) {
+        Intent intent = new Intent(this, MyAccount.class);
+        startActivity(intent);
+    }
 }
