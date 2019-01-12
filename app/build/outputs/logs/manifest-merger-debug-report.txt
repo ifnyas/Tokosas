@@ -6,6 +6,7 @@ INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidMan
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b0e2236f77bb95f9b0d72c7e5c701a6b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32fd19e0bdd46f84feac43a42d43323a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\680a863f1eca18c760e29075150bcd57\AndroidManifest.xml:17:1-22:12
@@ -92,10 +93,10 @@ activity#id.servkit.tokosas.MyAccount
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:9-47
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:19-44
-activity#id.servkit.tokosas.MainPromo
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-56
+activity#id.servkit.tokosas.MainMember
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-45
 uses-sdk
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
@@ -104,6 +105,8 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudio
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b0e2236f77bb95f9b0d72c7e5c701a6b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32fd19e0bdd46f84feac43a42d43323a\AndroidManifest.xml:20:5-44

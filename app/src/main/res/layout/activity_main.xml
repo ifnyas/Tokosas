@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/top"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -27,6 +28,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginTop="16dp"
+            android:onClick="toMainMember"
             android:src="@drawable/ic_card_giftcard_black_24dp" />
 
         <ImageView
@@ -36,6 +38,14 @@
             android:onClick="toMyAccount"
             android:src="@drawable/ic_person_black_24dp" />
     </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@id/top" />
+
 
     <ImageView
         android:layout_width="96dp"

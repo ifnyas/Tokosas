@@ -380,10 +380,6 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b0e2236f77bb95f9b0d72c7e5c701a6b\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_promo.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\main_promo.xml"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b0e2236f77bb95f9b0d72c7e5c701a6b\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -742,6 +738,10 @@
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b0e2236f77bb95f9b0d72c7e5c701a6b\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_member.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\main_member.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",

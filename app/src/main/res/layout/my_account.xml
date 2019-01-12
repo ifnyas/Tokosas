@@ -8,6 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
+        android:id="@+id/top"
         android:layout_height="wrap_content">
 
         <ImageView
@@ -16,7 +17,23 @@
             android:layout_margin="16dp"
             android:onClick="toMainActivity"
             android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center_vertical"
+            android:text="Akun Saya"
+            android:textSize="20sp"
+            android:textStyle="bold" />
     </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@id/top" />
 
     <ImageView
         android:layout_width="96dp"
@@ -32,7 +49,7 @@
         android:id="@+id/webTokoText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="UDIN SAEPUDIN"
+        android:text="Nurhadi Aldo"
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold"

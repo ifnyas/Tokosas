@@ -22,6 +22,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /*intent to go to My Account */
+    public void toMainMember(View view) {
+        Intent intent = new Intent(this, MainMember.class);
+        startActivity(intent);
+    }
+
+    /*intent to go to Main Member */
     public void toMyAccount(View view) {
         Intent intent = new Intent(this, MyAccount.class);
         startActivity(intent);

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainMenu">
 
     <LinearLayout
         android:layout_width="match_parent"
+        android:id="@+id/top"
         android:layout_height="wrap_content">
 
         <ImageView
@@ -15,7 +17,23 @@
             android:layout_margin="16dp"
             android:onClick="toMainActivity"
             android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center_vertical"
+            android:text="Menu Utama"
+            android:textSize="20sp"
+            android:textStyle="bold" />
     </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@id/top" />
 
     <ExpandableListView
         android:id="@+id/android:list"
@@ -24,6 +42,6 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
-        android:layout_marginTop="64dp"></ExpandableListView>
+        android:layout_marginTop="64dp" />
 
 </android.support.constraint.ConstraintLayout>
