@@ -20,7 +20,8 @@
         <activity android:name=".MyAccount" />
         <activity android:name=".MainMember" />
         <activity android:name=".MemberPart" />
-        <activity android:name=".MemberSnk"></activity>
+        <activity android:name=".MemberSnk" />
+        <activity android:name=".MemberBonus"></activity>
     </application>
 
 </manifest>

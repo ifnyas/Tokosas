@@ -75,6 +75,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="Bonus Anda"
+                android:onClick="toMemberBonus"
                 android:textSize="16sp"
                 android:textStyle="bold" />
         </android.support.v7.widget.CardView>

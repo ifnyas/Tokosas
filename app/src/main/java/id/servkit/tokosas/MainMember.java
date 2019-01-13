@@ -32,4 +32,10 @@ public class MainMember extends AppCompatActivity {
         Intent intent = new Intent(this, MemberSnk.class);
         startActivity(intent);
     }
+
+    /*intent for MemberBonus Button */
+    public void toMemberBonus(View view) {
+        Intent intent = new Intent(this, MemberBonus.class);
+        startActivity(intent);
+    }
 }
