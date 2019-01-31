@@ -1,64 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b0e2236f77bb95f9b0d72c7e5c701a6b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32fd19e0bdd46f84feac43a42d43323a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\680a863f1eca18c760e29075150bcd57\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b1c76aa1774468abfec50633989466b0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5752de8fa19413bac558f39440e9b25f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\04f4e02c8de23701d2dd00c99958b2b7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a1cdd388781eb28029bf049df092169\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a848cdc0cd685b4b780e7d2a4dc7c72b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b4852745d741b6bacc33e7dbe05b2571\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c39f95a584f66621baa27ad085042d73\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\64a0e93db8fad4b9166a4a04ee7e96aa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\413bee7687fcd020715339c6789d640b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0278ab14518d3af1cf5af88161d4f8f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4afe70355a4a6a9ce074b410c20b161d\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2e516d2332776b2be17ff1facc4812ae\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286e8282c3fb9ed4460881ccdd1a5d90\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e8ae79c07bcb95191b07fb448eaaf96\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e5281327eaa88304953105e719689688\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72736e9a0716e4c38c5a6e9c4d85282d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d8460102f2b296849384bac8b6c55e02\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\79d9443ae3f383601b4ab4d7fbc438eb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9c467b4ea1b9b5942ed161fb0165b604\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcef43ffabd92ad9504a134cdd02280c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bb8fd82f661c27eef36d95cd574a427\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\86f27e7f4ff6ed26e31ff022d07c790b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4ae81aa5d08448af33fcf5e51058381f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e6e0e7a74333ed08d85197add70399b5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6abc67a8d0bc6011ec0c56491318d29e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6ca96818f19ff891f745de0a11f88c39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c218923457b579d26426a76e996e8679\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c243e551720d95fa70ae5705421022ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cccafda6dc042225ded381ef52fc932b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c093732e813edfbd9311358f7bf0f4e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8e819df275a25a64affc8fa025f8de13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec01c32f494a3a7d65be58fd60191feb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e7a430c46c690f1c785e408540f27ca0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\791629c41347169048ca753d7fdac79e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3fec3dc931845709faeee6ec0611364c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cbebf15c456f800c620d18916a9c06f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7b2f52c76a2d900a15daddd52e7d27af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a55e27929b35215cc608510aaa54191d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b922b852c94fc22c200c3c28e193f88e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc8a9f51223c8c7a7f79d8bafaa3320e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc3a29670de563ce2a29fc8420c4c737\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cff0c95605e5a9c3d9d817dbc94ac66b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9c191349bdddf9d6a39c2dabd11d04d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\386d8b4da0a307e4d1b807d1c8fa6b6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a940ddeb72ae32e2e6c13d1cbcc224a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d67a3690a3dbcf27b439b8738a910d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ed8e74231aaf3b7de6f9058099c3112\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d428713ca1049e0609e3a4f7e4c87574\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0b404f6a4e8cd30cbbda67b1a71a0c70\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\97e3bab659180498db64268b729c2f93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c14c79b660215957557409f810f36b28\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
 	package
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-83:12
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:5:5-25:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4afe70355a4a6a9ce074b410c20b161d\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4afe70355a4a6a9ce074b410c20b161d\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:5:5-81:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\86f27e7f4ff6ed26e31ff022d07c790b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\86f27e7f4ff6ed26e31ff022d07c790b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e6e0e7a74333ed08d85197add70399b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e6e0e7a74333ed08d85197add70399b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc3a29670de563ce2a29fc8420c4c737\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc3a29670de563ce2a29fc8420c4c737\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -71,104 +76,334 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\Androi
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:11:9-40
-activity#id.servkit.tokosas.MainActivity
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:9-18:20
+activity#id.servkit.tokosas.TosPpksLihatUbah
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:9-63
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:13-17:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:17-69
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:19-51
+activity#id.servkit.tokosas.TosRbCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:17-77
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:19-44
+activity#id.servkit.tokosas.TosPrbCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:27-74
-activity#id.servkit.tokosas.MainMenu
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:9-46
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:19-45
+activity#id.servkit.tokosas.TosMopLihat
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:9-49
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:19-43
-activity#id.servkit.tokosas.MyAccount
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:19-46
+activity#id.servkit.tokosas.TosPbFormList
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:19-48
+activity#id.servkit.tokosas.TosPbFormSummary
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:19-51
+activity#id.servkit.tokosas.TosPbForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:19-44
+activity#id.servkit.tokosas.TosPbLihat
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:9-48
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:19-45
+activity#id.servkit.tokosas.TosPbCari
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:9-47
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:19-44
-activity#id.servkit.tokosas.MainMember
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-48
+activity#id.servkit.tokosas.TosOpFormList
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-51
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-45
-activity#id.servkit.tokosas.MemberPart
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:9-48
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-48
+activity#id.servkit.tokosas.TosOpFormSummary
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:19-45
-activity#id.servkit.tokosas.MemberSnk
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:19-51
+activity#id.servkit.tokosas.TosOpForm
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:9-47
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:19-44
-activity#id.servkit.tokosas.MemberBonus
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:9-58
+activity#id.servkit.tokosas.TosOpLihat
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:19-46
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:19-45
+activity#id.servkit.tokosas.TosOpCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:19-44
+activity#id.servkit.tokosas.TosPwksCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:19-46
+activity#id.servkit.tokosas.TosPpksLihat
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:19-47
+activity#id.servkit.tokosas.HutangPhForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:19-47
+activity#id.servkit.tokosas.LoginActivity
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:27-74
+activity#id.servkit.tokosas.MainMenu
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:9-46
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:19-43
+activity#id.servkit.tokosas.MyAccount
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:37:19-44
+activity#id.servkit.tokosas.Member
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:38:19-41
+activity#id.servkit.tokosas.MemberPart
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:39:9-48
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:39:19-45
+activity#id.servkit.tokosas.MemberSnk
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:40:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:40:19-44
+activity#id.servkit.tokosas.MemberBonus
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:41:9-49
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:41:19-46
+activity#id.servkit.tokosas.TosPpks
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:42:9-45
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:42:19-42
+activity#id.servkit.tokosas.TosPpksCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:43:9-49
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:43:19-46
+activity#id.servkit.tokosas.TosPpksForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:19-46
+activity#id.servkit.tokosas.TosPpksList
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:9-49
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:19-46
+activity#id.servkit.tokosas.TosPpksLookup
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:19-48
+activity#id.servkit.tokosas.TosPpksResult
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:19-48
+activity#id.servkit.tokosas.TosPwks
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:9-45
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:19-42
+activity#id.servkit.tokosas.TosOp
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:19-40
+activity#id.servkit.tokosas.TosPb
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:19-40
+activity#id.servkit.tokosas.TosMop
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:51:9-44
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:51:19-41
+activity#id.servkit.tokosas.TosMopCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:52:9-48
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:52:19-45
+activity#id.servkit.tokosas.TosKpb
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:9-44
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:19-41
+activity#id.servkit.tokosas.TosKpbCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:54:9-48
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:54:19-45
+activity#id.servkit.tokosas.TosPrb
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:9-44
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:19-41
+activity#id.servkit.tokosas.TosRb
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:19-40
+activity#id.servkit.tokosas.PosNpp
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:57:9-44
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:57:19-41
+activity#id.servkit.tokosas.PosNppForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:9-48
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:19-45
+activity#id.servkit.tokosas.PosLn
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:19-40
+activity#id.servkit.tokosas.PosLnCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:19-44
+activity#id.servkit.tokosas.PosKn
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:19-40
+activity#id.servkit.tokosas.PosKnCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:19-44
+activity#id.servkit.tokosas.PosKnKoreksi
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:19-47
+activity#id.servkit.tokosas.MainActivity
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:19-47
+activity#id.servkit.tokosas.ResetPass
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:19-44
+activity#id.servkit.tokosas.HutangDh
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:9-46
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:19-43
+activity#id.servkit.tokosas.HutangDhForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:19-47
+activity#id.servkit.tokosas.HutangDhFormSummary
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:9-57
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:19-54
+activity#id.servkit.tokosas.HutangDhCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:19-47
+activity#id.servkit.tokosas.HutangSh
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:9-46
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:19-43
+activity#id.servkit.tokosas.HutangShPenambah
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:71:9-54
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:71:19-51
+activity#id.servkit.tokosas.HutangPh
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:9-46
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:19-43
+activity#id.servkit.tokosas.HutangPhCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:19-47
+activity#id.servkit.tokosas.PiutangDp
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:19-44
+activity#id.servkit.tokosas.PiutangDpForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:19-48
+activity#id.servkit.tokosas.PiutangDpCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:19-48
+activity#id.servkit.tokosas.PiutangSp
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:19-44
+activity#id.servkit.tokosas.PiutangSpPenambah
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:9-55
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:19-52
+activity#id.servkit.tokosas.PiutangPp
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:19-44
+activity#id.servkit.tokosas.LaporanLh
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:19-44
 uses-sdk
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b0e2236f77bb95f9b0d72c7e5c701a6b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b0e2236f77bb95f9b0d72c7e5c701a6b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d377cb81afcee8c0fa22925ab29bf56b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f25a91e3496c17ce76792d05e0f838de\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\13b1555846424183015c1855f6a0d579\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32fd19e0bdd46f84feac43a42d43323a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32fd19e0bdd46f84feac43a42d43323a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\680a863f1eca18c760e29075150bcd57\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\680a863f1eca18c760e29075150bcd57\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b1c76aa1774468abfec50633989466b0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b1c76aa1774468abfec50633989466b0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5752de8fa19413bac558f39440e9b25f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5752de8fa19413bac558f39440e9b25f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\04f4e02c8de23701d2dd00c99958b2b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\04f4e02c8de23701d2dd00c99958b2b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a1cdd388781eb28029bf049df092169\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a1cdd388781eb28029bf049df092169\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a848cdc0cd685b4b780e7d2a4dc7c72b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a848cdc0cd685b4b780e7d2a4dc7c72b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b4852745d741b6bacc33e7dbe05b2571\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b4852745d741b6bacc33e7dbe05b2571\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c39f95a584f66621baa27ad085042d73\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c39f95a584f66621baa27ad085042d73\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\64a0e93db8fad4b9166a4a04ee7e96aa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\64a0e93db8fad4b9166a4a04ee7e96aa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\413bee7687fcd020715339c6789d640b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\413bee7687fcd020715339c6789d640b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0278ab14518d3af1cf5af88161d4f8f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0278ab14518d3af1cf5af88161d4f8f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259755b266866f29abfcd8842ec4c203\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4afe70355a4a6a9ce074b410c20b161d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4afe70355a4a6a9ce074b410c20b161d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2e516d2332776b2be17ff1facc4812ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2e516d2332776b2be17ff1facc4812ae\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286e8282c3fb9ed4460881ccdd1a5d90\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286e8282c3fb9ed4460881ccdd1a5d90\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e8ae79c07bcb95191b07fb448eaaf96\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e8ae79c07bcb95191b07fb448eaaf96\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e5281327eaa88304953105e719689688\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e5281327eaa88304953105e719689688\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72736e9a0716e4c38c5a6e9c4d85282d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72736e9a0716e4c38c5a6e9c4d85282d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d8460102f2b296849384bac8b6c55e02\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d8460102f2b296849384bac8b6c55e02\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\79d9443ae3f383601b4ab4d7fbc438eb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\79d9443ae3f383601b4ab4d7fbc438eb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9c467b4ea1b9b5942ed161fb0165b604\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9c467b4ea1b9b5942ed161fb0165b604\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcef43ffabd92ad9504a134cdd02280c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcef43ffabd92ad9504a134cdd02280c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bb8fd82f661c27eef36d95cd574a427\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bb8fd82f661c27eef36d95cd574a427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\86f27e7f4ff6ed26e31ff022d07c790b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\86f27e7f4ff6ed26e31ff022d07c790b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4ae81aa5d08448af33fcf5e51058381f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4ae81aa5d08448af33fcf5e51058381f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e6e0e7a74333ed08d85197add70399b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e6e0e7a74333ed08d85197add70399b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6abc67a8d0bc6011ec0c56491318d29e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6abc67a8d0bc6011ec0c56491318d29e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6ca96818f19ff891f745de0a11f88c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6ca96818f19ff891f745de0a11f88c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c218923457b579d26426a76e996e8679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c218923457b579d26426a76e996e8679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c243e551720d95fa70ae5705421022ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c243e551720d95fa70ae5705421022ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cccafda6dc042225ded381ef52fc932b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cccafda6dc042225ded381ef52fc932b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c093732e813edfbd9311358f7bf0f4e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c093732e813edfbd9311358f7bf0f4e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8e819df275a25a64affc8fa025f8de13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8e819df275a25a64affc8fa025f8de13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec01c32f494a3a7d65be58fd60191feb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec01c32f494a3a7d65be58fd60191feb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e7a430c46c690f1c785e408540f27ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e7a430c46c690f1c785e408540f27ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\791629c41347169048ca753d7fdac79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\791629c41347169048ca753d7fdac79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3fec3dc931845709faeee6ec0611364c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3fec3dc931845709faeee6ec0611364c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cbebf15c456f800c620d18916a9c06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cbebf15c456f800c620d18916a9c06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7b2f52c76a2d900a15daddd52e7d27af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7b2f52c76a2d900a15daddd52e7d27af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a55e27929b35215cc608510aaa54191d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a55e27929b35215cc608510aaa54191d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b922b852c94fc22c200c3c28e193f88e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b922b852c94fc22c200c3c28e193f88e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc8a9f51223c8c7a7f79d8bafaa3320e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc8a9f51223c8c7a7f79d8bafaa3320e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b8e5dc67cb890559b52587d9771adcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc3a29670de563ce2a29fc8420c4c737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc3a29670de563ce2a29fc8420c4c737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cff0c95605e5a9c3d9d817dbc94ac66b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cff0c95605e5a9c3d9d817dbc94ac66b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9c191349bdddf9d6a39c2dabd11d04d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9c191349bdddf9d6a39c2dabd11d04d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\386d8b4da0a307e4d1b807d1c8fa6b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\386d8b4da0a307e4d1b807d1c8fa6b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a940ddeb72ae32e2e6c13d1cbcc224a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a940ddeb72ae32e2e6c13d1cbcc224a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d67a3690a3dbcf27b439b8738a910d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d67a3690a3dbcf27b439b8738a910d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ed8e74231aaf3b7de6f9058099c3112\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ed8e74231aaf3b7de6f9058099c3112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d428713ca1049e0609e3a4f7e4c87574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d428713ca1049e0609e3a4f7e4c87574\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0b404f6a4e8cd30cbbda67b1a71a0c70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0b404f6a4e8cd30cbbda67b1a71a0c70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\97e3bab659180498db64268b729c2f93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\97e3bab659180498db64268b729c2f93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c14c79b660215957557409f810f36b28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c14c79b660215957557409f810f36b28\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

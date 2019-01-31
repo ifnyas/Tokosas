@@ -17,7 +17,7 @@ public class MemberBonus extends AppCompatActivity {
 
     /*intent to go to My Account */
     public void toMainMember(View view) {
-        Intent intent = new Intent(this, MainMember.class);
+        Intent intent = new Intent(this, Member.class);
         startActivity(intent);
     }
 }

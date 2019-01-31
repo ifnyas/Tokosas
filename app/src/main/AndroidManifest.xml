@@ -9,7 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".TosPpksLihatUbah"></activity>
+        <activity android:name=".TosRbCari" />
+        <activity android:name=".TosPrbCari" />
+        <activity android:name=".TosMopLihat" />
+        <activity android:name=".TosPbFormList" />
+        <activity android:name=".TosPbFormSummary" />
+        <activity android:name=".TosPbForm" />
+        <activity android:name=".TosPbLihat" />
+        <activity android:name=".TosPbCari" />
+        <activity android:name=".TosOpFormList" />
+        <activity android:name=".TosOpFormSummary" />
+        <activity android:name=".TosOpForm" />
+        <activity android:name=".TosOpLihat" />
+        <activity android:name=".TosOpCari" />
+        <activity android:name=".TosPwksCari" />
+        <activity android:name=".TosPpksLihat" />
+        <activity android:name=".HutangPhForm" />
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,10 +35,49 @@
         </activity>
         <activity android:name=".MainMenu" />
         <activity android:name=".MyAccount" />
-        <activity android:name=".MainMember" />
+        <activity android:name=".Member" />
         <activity android:name=".MemberPart" />
         <activity android:name=".MemberSnk" />
-        <activity android:name=".MemberBonus"></activity>
+        <activity android:name=".MemberBonus" />
+        <activity android:name=".TosPpks" />
+        <activity android:name=".TosPpksCari" />
+        <activity android:name=".TosPpksForm" />
+        <activity android:name=".TosPpksList" />
+        <activity android:name=".TosPpksLookup" />
+        <activity android:name=".TosPpksResult" />
+        <activity android:name=".TosPwks" />
+        <activity android:name=".TosOp" />
+        <activity android:name=".TosPb" />
+        <activity android:name=".TosMop" />
+        <activity android:name=".TosMopCari" />
+        <activity android:name=".TosKpb" />
+        <activity android:name=".TosKpbCari" />
+        <activity android:name=".TosPrb" />
+        <activity android:name=".TosRb" />
+        <activity android:name=".PosNpp" />
+        <activity android:name=".PosNppForm" />
+        <activity android:name=".PosLn" />
+        <activity android:name=".PosLnCari" />
+        <activity android:name=".PosKn" />
+        <activity android:name=".PosKnCari" />
+        <activity android:name=".PosKnKoreksi" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ResetPass" />
+        <activity android:name=".HutangDh" />
+        <activity android:name=".HutangDhForm" />
+        <activity android:name=".HutangDhFormSummary" />
+        <activity android:name=".HutangDhCari" />
+        <activity android:name=".HutangSh" />
+        <activity android:name=".HutangShPenambah" />
+        <activity android:name=".HutangPh" />
+        <activity android:name=".HutangPhCari" />
+        <activity android:name=".PiutangDp" />
+        <activity android:name=".PiutangDpForm" />
+        <activity android:name=".PiutangDpCari" />
+        <activity android:name=".PiutangSp" />
+        <activity android:name=".PiutangSpPenambah" />
+        <activity android:name=".PiutangPp" />
+        <activity android:name=".LaporanLh" />
     </application>
 
 </manifest>

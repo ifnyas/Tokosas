@@ -220,96 +220,96 @@ public class MainMenu extends ExpandableListActivity {
                     case 0:
                         switch (childPosition) {
                             case 0:
-                                Toast.makeText(getBaseContext(), "PPKS",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent00 = new Intent(v.getContext(), TosPpks.class);
+                                startActivity(intent00);
                                 break;
                             case 1:
-                                Toast.makeText(getBaseContext(), "PDS",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent01 = new Intent(v.getContext(), TosPwks.class);
+                                startActivity(intent01);
                                 break;
                             case 2:
-                                Toast.makeText(getBaseContext(), "OP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent02 = new Intent(v.getContext(), TosOp.class);
+                                startActivity(intent02);
                                 break;
                             case 3:
-                                Toast.makeText(getBaseContext(), "PB",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent03 = new Intent(v.getContext(), TosPb.class);
+                                startActivity(intent03);
                                 break;
                             case 4:
-                                Toast.makeText(getBaseContext(), "MOP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent04 = new Intent(v.getContext(), TosMop.class);
+                                startActivity(intent04);
                                 break;
                             case 5:
-                                Toast.makeText(getBaseContext(), "KPB",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent05 = new Intent(v.getContext(), TosKpb.class);
+                                startActivity(intent05);
                                 break;
                             case 6:
-                                Toast.makeText(getBaseContext(), "PRB",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent06 = new Intent(v.getContext(), TosPrb.class);
+                                startActivity(intent06);
                                 break;
                             case 7:
-                                Toast.makeText(getBaseContext(), "RB",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent07 = new Intent(v.getContext(), TosRb.class);
+                                startActivity(intent07);
                                 break;
                         }
                         break;
                     case 1:
                         switch (childPosition) {
                             case 0:
-                                Toast.makeText(getBaseContext(), "NPP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent00 = new Intent(v.getContext(), PosNpp.class);
+                                startActivity(intent00);
                                 break;
                             case 1:
                                 Toast.makeText(getBaseContext(), "NPJ",
                                         Toast.LENGTH_SHORT).show();
                                 break;
                             case 2:
-                                Toast.makeText(getBaseContext(), "LN",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent02 = new Intent(v.getContext(), PosLn.class);
+                                startActivity(intent02);
                                 break;
                             case 3:
-                                Toast.makeText(getBaseContext(), "KN",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent03 = new Intent(v.getContext(), PosKn.class);
+                                startActivity(intent03);
                                 break;
                         }
                         break;
                     case 2:
                         switch (childPosition) {
                             case 0:
-                                Toast.makeText(getBaseContext(), "DH",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent00 = new Intent(v.getContext(), HutangDh.class);
+                                startActivity(intent00);
                                 break;
                             case 1:
-                                Toast.makeText(getBaseContext(), "SH",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent01 = new Intent(v.getContext(), HutangSh.class);
+                                startActivity(intent01);
                                 break;
                             case 2:
-                                Toast.makeText(getBaseContext(), "PH",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent02 = new Intent(v.getContext(), HutangPh.class);
+                                startActivity(intent02);
                                 break;
                         }
                         break;
                     case 3:
                         switch (childPosition) {
                             case 0:
-                                Toast.makeText(getBaseContext(), "DP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent00 = new Intent(v.getContext(), PiutangDp.class);
+                                startActivity(intent00);
                                 break;
                             case 1:
-                                Toast.makeText(getBaseContext(), "SP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent01 = new Intent(v.getContext(), PiutangSp.class);
+                                startActivity(intent01);
                                 break;
                             case 2:
-                                Toast.makeText(getBaseContext(), "PP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent02 = new Intent(v.getContext(), PiutangPp.class);
+                                startActivity(intent02);
                                 break;
                         }
                         break;
                     case 4:
                         switch (childPosition) {
                             case 0:
-                                Toast.makeText(getBaseContext(), "LRKH",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent00 = new Intent(v.getContext(), LaporanLh.class);
+                                startActivity(intent00);
                                 break;
                             case 1:
                                 Toast.makeText(getBaseContext(), "LRKP",

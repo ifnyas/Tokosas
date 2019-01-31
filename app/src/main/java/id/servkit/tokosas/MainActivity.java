@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     /*intent to go to My Account */
     public void toMainMember(View view) {
-        Intent intent = new Intent(this, MainMember.class);
+        Intent intent = new Intent(this, Member.class);
         startActivity(intent);
     }
 
@@ -32,4 +32,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MyAccount.class);
         startActivity(intent);
     }
+
 }
