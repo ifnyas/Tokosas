@@ -15,8 +15,24 @@ public class PosNpp extends AppCompatActivity {
         setContentView(R.layout.pos_npp);
     }
 
-    public void toNppForm(View view) {
-        Intent intent = new Intent(this, PosNppForm.class);
+    public void toPosNppList(View view) {
+        Intent intent = new Intent(this, PosNppList.class);
+        startActivity(intent);
+    }
+
+    public void toPosNppPembayaran(View view) {
+        Intent intent = new Intent(this, PosNppPembayaran.class);
+        startActivity(intent);
+    }
+
+    public void toPosNppPelanggan(View view) {
+        Intent intent = new Intent(this, PosNppPelanggan.class);
+        startActivity(intent);
+
+    }
+
+    public void toPosNppSalesman(View view) {
+        Intent intent = new Intent(this, PosNppSalesman.class);
         startActivity(intent);
     }
 

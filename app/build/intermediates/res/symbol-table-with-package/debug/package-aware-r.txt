@@ -606,8 +606,17 @@ color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
 color colorAccent
+color colorBlack
+color colorBlue
+color colorDark
+color colorGreen
+color colorLight
+color colorOrange
 color colorPrimary
 color colorPrimaryDark
+color colorRed
+color colorWhite
+color colorYellow
 color design_bottom_navigation_shadow_color
 color design_default_color_primary
 color design_default_color_primary_dark
@@ -1136,6 +1145,7 @@ id jenis
 id kategori
 id keterangan
 id kode
+id kodeporduk
 id kodeproduk
 id labeled
 id largeLabel
@@ -1156,6 +1166,7 @@ id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
 id nama
+id namaproduk
 id navigation_header_container
 id never
 id noDokumen
@@ -1383,6 +1394,12 @@ layout pos_ln
 layout pos_ln_cari
 layout pos_npp
 layout pos_npp_form
+layout pos_npp_list
+layout pos_npp_pelanggan
+layout pos_npp_pelanggan_tambah
+layout pos_npp_pembayaran
+layout pos_npp_salesman
+layout pos_npp_salesman_tambah
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -1409,7 +1426,6 @@ layout tos_ppks_cari
 layout tos_ppks_form
 layout tos_ppks_lihat
 layout tos_ppks_lihat_ubah
-layout tos_ppks_lihat_ubah2
 layout tos_ppks_list
 layout tos_ppks_lookup
 layout tos_ppks_result

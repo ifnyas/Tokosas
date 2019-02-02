@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TosPpksLihatUbah"></activity>
+        <activity android:name=".PosNppSalesmanTambah"></activity>
+        <activity android:name=".PosNppSalesman" />
+        <activity android:name=".PosNppPelangganTambah" />
+        <activity android:name=".PosNppPelanggan" />
+        <activity android:name=".PosNppPembayaran" />
+        <activity android:name=".PosNppList" />
+        <activity android:name=".TosPpksLihatUbah" />
         <activity android:name=".TosRbCari" />
         <activity android:name=".TosPrbCari" />
         <activity android:name=".TosMopLihat" />
