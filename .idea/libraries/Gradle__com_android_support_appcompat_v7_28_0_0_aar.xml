@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:appcompat-v7:28.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4ae81aa5d08448af33fcf5e51058381f/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1d7102c1fad3d307f9b83e09678d16d/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4ae81aa5d08448af33fcf5e51058381f/res" />
-      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4ae81aa5d08448af33fcf5e51058381f/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1d7102c1fad3d307f9b83e09678d16d/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1d7102c1fad3d307f9b83e09678d16d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-compat:28.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3b8e5dc67cb890559b52587d9771adcb/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/406adc27da3f5b6c3be8f17a7c1b161d/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3b8e5dc67cb890559b52587d9771adcb/res" />
-      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3b8e5dc67cb890559b52587d9771adcb/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/406adc27da3f5b6c3be8f17a7c1b161d/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Toko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/406adc27da3f5b6c3be8f17a7c1b161d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

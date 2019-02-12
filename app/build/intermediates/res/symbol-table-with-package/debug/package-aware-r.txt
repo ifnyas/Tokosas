@@ -1020,11 +1020,15 @@ drawable ic_card_giftcard_black_24dp
 drawable ic_date_range_black_24dp
 drawable ic_delete_black_24dp
 drawable ic_info_black_24dp
+drawable ic_info_outline_white_24dp
+drawable ic_keyboard_arrow_left_white_24dp
+drawable ic_keyboard_arrow_up_white_24dp
 drawable ic_menu_black_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person_black_24dp
+drawable ic_reply_white_24dp
 drawable ic_search_black_24dp
 drawable ic_store_black_24dp
 drawable mtrl_snackbar_background
@@ -1145,7 +1149,6 @@ id jenis
 id kategori
 id keterangan
 id kode
-id kodeporduk
 id kodeproduk
 id labeled
 id largeLabel
@@ -1398,6 +1401,7 @@ layout pos_npp_list
 layout pos_npp_pelanggan
 layout pos_npp_pelanggan_tambah
 layout pos_npp_pembayaran
+layout pos_npp_produk
 layout pos_npp_salesman
 layout pos_npp_salesman_tambah
 layout select_dialog_item_material

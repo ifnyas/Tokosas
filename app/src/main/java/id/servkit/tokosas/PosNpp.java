@@ -36,6 +36,11 @@ public class PosNpp extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toPosNppProduk(View view) {
+        Intent intent = new Intent(this, PosNppProduk.class);
+        startActivity(intent);
+    }
+
     public void toMainMenu(View view) {
         Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);

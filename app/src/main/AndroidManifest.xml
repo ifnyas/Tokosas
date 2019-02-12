@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PosNppSalesmanTambah"></activity>
+        <activity android:name=".PosNppProduk"></activity>
+        <activity android:name=".PosNppSalesmanTambah" />
         <activity android:name=".PosNppSalesman" />
         <activity android:name=".PosNppPelangganTambah" />
         <activity android:name=".PosNppPelanggan" />
