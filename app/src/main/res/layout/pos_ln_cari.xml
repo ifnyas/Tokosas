@@ -4,10 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/page"
     tools:context=".PosLnCari">
 
     <LinearLayout
         android:id="@+id/top"
+        app:layout_constraintTop_toTopOf="@id/page"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -38,28 +40,24 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_margin="16dp"
         android:orientation="vertical"
-        android:paddingTop="64dp">
+        app:layout_constraintTop_toBottomOf="@id/top">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
+            android:layout_height="wrap_content">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp">
+                android:layout_marginTop="8dp">
 
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-
                     android:text="Pelanggan"
                     android:textSize="18sp" />
 
@@ -106,7 +104,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:hint="01/11/2018" />
+                android:drawableRight="@drawable/ic_date_range_black_24dp"
+                android:hint="Awal" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -120,15 +119,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:hint="04/11/2018" />
+                android:drawableRight="@drawable/ic_date_range_black_24dp"
+                android:hint="Akhir" />
         </LinearLayout>
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_margin="16dp"
+            android:layout_marginTop="24dp"
             android:text="Cari"
+            android:background="@color/colorBlue"
+            android:textColor="@color/colorLight"
             android:textAlignment="center" />
     </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>

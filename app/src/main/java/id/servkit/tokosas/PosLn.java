@@ -15,13 +15,18 @@ public class PosLn extends AppCompatActivity {
         setContentView(R.layout.pos_ln);
     }
 
-    public void toNppForm(View view) {
+    public void toPosLnCari(View view) {
+        Intent intent = new Intent(this, PosLnCari.class);
+        startActivity(intent);
+    }
+
+    public void toPosLnForm(View view) {
         Intent intent = new Intent(this, PosNppForm.class);
         startActivity(intent);
     }
 
-    public void toLnCari(View view) {
-        Intent intent = new Intent(this, PosLnCari.class);
+    public void toPosLnLihat(View view) {
+        Intent intent = new Intent(this, PosLnLihat.class);
         startActivity(intent);
     }
 

@@ -1395,6 +1395,7 @@ layout pos_kn_cari
 layout pos_kn_koreksi
 layout pos_ln
 layout pos_ln_cari
+layout pos_ln_lihat
 layout pos_npp
 layout pos_npp_form
 layout pos_npp_list

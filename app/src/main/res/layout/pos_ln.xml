@@ -4,31 +4,55 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/page"
     tools:context=".PosLn">
 
     <LinearLayout
         android:id="@+id/top"
         android:layout_width="match_parent"
+        app:layout_constraintTop_toTopOf="@id/page"
         android:layout_height="wrap_content">
 
         <ImageView
-            android:layout_width="32dp"
-            android:layout_height="32dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:layout_margin="16dp"
             android:onClick="toMainMenu"
             android:src="@drawable/ic_arrow_back_black_24dp" />
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
+            android:layout_weight="1"
             android:gravity="center_vertical"
             android:text="List Nota"
             android:textSize="20sp"
             android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:onClick="toPosLnCari"
+            android:src="@drawable/ic_search_black_24dp" />
     </LinearLayout>
 
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/colorBlue"
+        android:clickable="true"
+        android:onClick="toPosLnForm"
+        android:src="@drawable/ic_add_black_24dp"
+        android:tint="@color/colorLight"
+        app:layout_constraintBottom_toBottomOf="@id/page"
+        app:layout_constraintRight_toRightOf="@id/page" />
 
     <View
         android:layout_width="match_parent"
@@ -38,133 +62,89 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="64dp"
-        android:orientation="vertical">
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/top">
 
-        <LinearLayout
+        <android.support.v7.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="16dp">
+            app:cardElevation="4dp">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1" />
-
-            <Button
-                android:layout_width="120dp"
-                android:layout_height="56dp"
-                android:layout_gravity="center_vertical"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1"
-                android:onClick="toNppForm"
-                android:text="FORM POS" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1" />
-
-            <Button
-                android:layout_width="120dp"
-                android:layout_height="56dp"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1"
-                android:onClick="toLnCari"
-                android:text="Cari"
-                android:textAlignment="center" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_marginRight="16dp"
-                android:layout_weight="1" />
-        </LinearLayout>
-
-        <TableLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp">
-
-            <TableRow>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="left"
-                    android:paddingRight="8dp"
-                    android:text="Pelanggan" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="left"
-                    android:paddingRight="8dp"
-                    android:text="Salesman" />
-
-                <TextView
-                    android:layout_width="48dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:paddingRight="8dp"
-                    android:text="Aksi" />
-            </TableRow>
-
-            <View
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginBottom="8dp"
-                android:background="@android:color/darker_gray" />
+                android:layout_height="match_parent"
+                android:layout_margin="8dp">
 
-            <TableRow>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="8dp"
+                    android:src="@drawable/ic_info_black_24dp" />
 
-                <TextView
-                    android:id="@+id/supplier"
+                <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:gravity="left"
-                    android:paddingRight="8dp"
-                    android:text="Lorem Ipsum" />
+                    android:orientation="vertical">
 
-                <TextView
-                    android:id="@+id/nodokpp"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="4dp"
+                        android:text="CASH-CASH"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Daniel Mat" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PJ/1901/00012" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="24 Januari 2019" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Rp 715.500" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:gravity="left"
-                    android:paddingRight="8dp"
-                    android:text="Dolor Sit Amet" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:background="#2ecc71"
                     android:gravity="center"
-                    android:padding="4dp"
-                    android:text="Lihat"
-                    android:textColor="#FFFFFF" />
+                    android:orientation="vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:background="#2c3e50"
-                    android:gravity="center"
-                    android:padding="4dp"
-                    android:text="Copy"
-                    android:textColor="#FFFFFF" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:onClick="toPosLnLihat"
+                        android:padding="4dp"
+                        android:text="LIHAT"
+                        android:textColor="@color/colorBlue"
+                        android:textStyle="bold" />
 
-            </TableRow>
-        </TableLayout>
-
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="4dp"
+                        android:text="BATAL"
+                        android:textColor="@color/colorRed"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

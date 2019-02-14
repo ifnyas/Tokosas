@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\de48bc05d1ca95ef07653cb4415fd129\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d1d7102c1fad3d307f9b83e09678d16d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d77006d1de3a9caf04b47062fbe6143c\AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yas\AndroidStudio
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8502cdfcb60349d9794e40d81f94820c\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\caac0beb4d60b060facdb0c4af1771ca\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\10bc249b2e408586d0bcae2bc56b2484\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
-INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
 	package
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-90:12
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:1-91:12
 		INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:5:5-88:19
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:5:5-89:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\de48bc05d1ca95ef07653cb4415fd129\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\de48bc05d1ca95ef07653cb4415fd129\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yas\AndroidStudioProjects\Toko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d77006d1de3a9caf04b47062fbe6143c\AndroidManifest.xml:9:5-20
@@ -76,296 +76,300 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yas\Androi
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:11:9-40
+activity#id.servkit.tokosas.PosLnLihat
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:9-57
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:19-45
 activity#id.servkit.tokosas.PosNppProduk
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:9-59
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:9-50
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:19-47
 activity#id.servkit.tokosas.PosNppSalesmanTambah
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:9-58
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:9-58
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:13:19-55
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:19-55
 activity#id.servkit.tokosas.PosNppSalesman
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:9-52
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:9-52
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:14:19-49
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:19-49
 activity#id.servkit.tokosas.PosNppPelangganTambah
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:9-59
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:9-59
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:15:19-56
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:19-56
 activity#id.servkit.tokosas.PosNppPelanggan
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:9-53
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:9-53
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:16:19-50
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:19-50
 activity#id.servkit.tokosas.PosNppPembayaran
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:9-54
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:17:19-51
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:19-51
 activity#id.servkit.tokosas.PosNppList
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:18:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:19-45
 activity#id.servkit.tokosas.TosPpksLihatUbah
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:9-54
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:19:19-51
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:19-51
 activity#id.servkit.tokosas.TosRbCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:20:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-44
 activity#id.servkit.tokosas.TosPrbCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:21:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:19-45
 activity#id.servkit.tokosas.TosMopLihat
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:9-49
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:9-49
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:22:19-46
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:19-46
 activity#id.servkit.tokosas.TosPbFormList
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:9-51
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:9-51
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:23:19-48
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:19-48
 activity#id.servkit.tokosas.TosPbFormSummary
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:9-54
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:24:19-51
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:19-51
 activity#id.servkit.tokosas.TosPbForm
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:25:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:19-44
 activity#id.servkit.tokosas.TosPbLihat
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:26:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:19-45
 activity#id.servkit.tokosas.TosPbCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:27:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:19-44
 activity#id.servkit.tokosas.TosOpFormList
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:9-51
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:9-51
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:19-48
 activity#id.servkit.tokosas.TosOpFormSummary
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:30:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:29:19-51
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:30:19-51
 activity#id.servkit.tokosas.TosOpForm
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:30:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:30:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:19-44
 activity#id.servkit.tokosas.TosOpLihat
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:32:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:31:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:32:19-45
 activity#id.servkit.tokosas.TosOpCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:32:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:32:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:19-44
 activity#id.servkit.tokosas.TosPwksCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:9-49
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:34:9-49
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:33:19-46
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:34:19-46
 activity#id.servkit.tokosas.TosPpksLihat
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:34:9-50
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:34:19-47
-activity#id.servkit.tokosas.HutangPhForm
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:35:9-50
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:35:19-47
+activity#id.servkit.tokosas.HutangPhForm
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:19-47
 activity#id.servkit.tokosas.LoginActivity
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:9-42:20
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:37:9-43:20
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:36:19-48
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:37:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:41:27-74
 activity#id.servkit.tokosas.MainMenu
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:43:9-46
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:9-46
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:43:19-43
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:19-43
 activity#id.servkit.tokosas.MyAccount
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:44:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:19-44
 activity#id.servkit.tokosas.Member
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:9-44
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:9-44
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:45:19-41
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:19-41
 activity#id.servkit.tokosas.MemberPart
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:46:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:19-45
 activity#id.servkit.tokosas.MemberSnk
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:47:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:19-44
 activity#id.servkit.tokosas.MemberBonus
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:9-49
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:9-49
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:48:19-46
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:19-46
 activity#id.servkit.tokosas.TosPpks
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:9-45
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:9-45
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:49:19-42
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:19-42
 activity#id.servkit.tokosas.TosPpksCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:9-49
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:50:19-46
-activity#id.servkit.tokosas.TosPpksForm
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:51:9-49
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:51:19-46
-activity#id.servkit.tokosas.TosPpksList
+activity#id.servkit.tokosas.TosPpksForm
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:52:9-49
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:52:19-46
-activity#id.servkit.tokosas.TosPpksLookup
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:9-51
+activity#id.servkit.tokosas.TosPpksList
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:9-49
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:19-48
-activity#id.servkit.tokosas.TosPpksResult
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:53:19-46
+activity#id.servkit.tokosas.TosPpksLookup
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:54:9-51
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:54:19-48
+activity#id.servkit.tokosas.TosPpksResult
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:19-48
 activity#id.servkit.tokosas.TosPwks
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:9-45
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:9-45
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:55:19-42
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:19-42
 activity#id.servkit.tokosas.TosOp
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:9-43
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:56:19-40
-activity#id.servkit.tokosas.TosPb
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:57:9-43
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:57:19-40
+activity#id.servkit.tokosas.TosPb
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:9-43
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:19-40
 activity#id.servkit.tokosas.TosMop
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:9-44
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:9-44
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:58:19-41
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:19-41
 activity#id.servkit.tokosas.TosMopCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:59:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:19-45
 activity#id.servkit.tokosas.TosKpb
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:9-44
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:9-44
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:60:19-41
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:19-41
 activity#id.servkit.tokosas.TosKpbCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:61:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:19-45
 activity#id.servkit.tokosas.TosPrb
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:9-44
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:9-44
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:62:19-41
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:19-41
 activity#id.servkit.tokosas.TosRb
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:9-43
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:9-43
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:63:19-40
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:19-40
 activity#id.servkit.tokosas.PosNpp
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:9-44
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:9-44
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:64:19-41
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:19-41
 activity#id.servkit.tokosas.PosNppForm
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:9-48
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:9-48
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:65:19-45
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:19-45
 activity#id.servkit.tokosas.PosLn
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:9-43
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:9-43
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:66:19-40
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:19-40
 activity#id.servkit.tokosas.PosLnCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:67:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:19-44
 activity#id.servkit.tokosas.PosKn
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:9-43
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:9-43
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:68:19-40
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:19-40
 activity#id.servkit.tokosas.PosKnCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:69:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:19-44
 activity#id.servkit.tokosas.PosKnKoreksi
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:9-50
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:70:19-47
-activity#id.servkit.tokosas.MainActivity
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:71:9-50
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:71:19-47
+activity#id.servkit.tokosas.MainActivity
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:9-50
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:19-47
 activity#id.servkit.tokosas.ResetPass
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:72:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:19-44
 activity#id.servkit.tokosas.HutangDh
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:9-46
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:9-46
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:73:19-43
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:19-43
 activity#id.servkit.tokosas.HutangDhForm
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:9-50
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:9-50
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:74:19-47
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:19-47
 activity#id.servkit.tokosas.HutangDhFormSummary
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:9-57
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:9-57
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:75:19-54
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:19-54
 activity#id.servkit.tokosas.HutangDhCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:9-50
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:9-50
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:76:19-47
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:19-47
 activity#id.servkit.tokosas.HutangSh
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:9-46
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:9-46
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:77:19-43
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:19-43
 activity#id.servkit.tokosas.HutangShPenambah
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:9-54
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:9-54
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:19-51
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:19-51
 activity#id.servkit.tokosas.HutangPh
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:9-46
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:9-46
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:19-43
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:19-43
 activity#id.servkit.tokosas.HutangPhCari
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:9-50
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:81:9-50
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:19-47
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:81:19-47
 activity#id.servkit.tokosas.PiutangDp
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:81:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:82:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:81:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:82:19-44
 activity#id.servkit.tokosas.PiutangDpForm
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:82:9-51
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:82:19-48
-activity#id.servkit.tokosas.PiutangDpCari
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:83:9-51
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:83:19-48
+activity#id.servkit.tokosas.PiutangDpCari
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:84:9-51
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:84:19-48
 activity#id.servkit.tokosas.PiutangSp
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:84:9-47
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:85:9-47
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:84:19-44
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:85:19-44
 activity#id.servkit.tokosas.PiutangSpPenambah
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:85:9-55
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:86:9-55
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:85:19-52
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:86:19-52
 activity#id.servkit.tokosas.PiutangPp
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:86:9-47
-	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:86:19-44
-activity#id.servkit.tokosas.LaporanLh
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:87:9-47
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:87:19-44
+activity#id.servkit.tokosas.LaporanLh
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:88:9-47
+	android:name
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:88:19-44
 uses-sdk
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml

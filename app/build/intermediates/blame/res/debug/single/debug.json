@@ -1436,6 +1436,10 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\406adc27da3f5b6c3be8f17a7c1b161d\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_pos_ln_lihat.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\pos_ln_lihat.xml"
+    },
+    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\drawable\\design_fab_background.xml"
     },
