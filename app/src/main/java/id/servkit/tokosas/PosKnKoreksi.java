@@ -15,13 +15,19 @@ public class PosKnKoreksi extends AppCompatActivity {
         setContentView(R.layout.pos_kn_koreksi);
     }
 
-    public void toPosKp(View view) {
+    public void toPosKn(View view) {
         Intent intent = new Intent(this, PosKn.class);
         startActivity(intent);
     }
 
-//    public void KpPembayaran(View view) {
-//        Intent intent = new Intent(this, KpPembayaran.class);
-//        startActivity(intent);
-//    }
+    public void toPosKnKoreksiPembayaran(View view) {
+        Intent intent = new Intent(this, PosNppPembayaran.class);
+        startActivity(intent);
+    }
+
+    public void toPosKnKoreksiList(View view) {
+        Intent intent = new Intent(this, PosKnKoreksiList.class);
+        startActivity(intent);
+    }
+
 }

@@ -15,18 +15,18 @@ public class PosKn extends AppCompatActivity {
         setContentView(R.layout.pos_kn);
     }
 
-    public void toKpCari(View view) {
+    public void toPosKnCari(View view) {
         Intent intent = new Intent(this, PosKnCari.class);
+        startActivity(intent);
+    }
+
+    public void toPosKnKoreksi(View view) {
+        Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);
     }
 
     public void toMainMenu(View view) {
         Intent intent = new Intent(this, MainMenu.class);
-        startActivity(intent);
-    }
-
-    public void toKpKoreksi(View view) {
-        Intent intent = new Intent(this, PosKnKoreksi.class);
         startActivity(intent);
     }
 }

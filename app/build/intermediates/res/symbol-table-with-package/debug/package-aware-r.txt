@@ -1270,6 +1270,7 @@ id text_input_password_toggle
 id textinput_counter
 id textinput_error
 id textinput_helper_text
+id tglPenjualan
 id tgldokop
 id tgldokpp
 id tgldoksupplier
@@ -1393,6 +1394,7 @@ layout piutang_sp_penambah
 layout pos_kn
 layout pos_kn_cari
 layout pos_kn_koreksi
+layout pos_kn_koreksi_list
 layout pos_ln
 layout pos_ln_cari
 layout pos_ln_lihat

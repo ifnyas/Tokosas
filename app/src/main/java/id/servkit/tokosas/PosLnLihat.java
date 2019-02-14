@@ -10,6 +10,8 @@ public class PosLnLihat extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+        getSupportActionBar().hide();
         setContentView(R.layout.pos_ln_lihat);
     }
 

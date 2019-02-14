@@ -4,39 +4,42 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/page"
     tools:context=".PosKnKoreksi">
+
+    <LinearLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/page">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:onClick="toPosKn"
+            android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center_vertical"
+            android:text="Form POS"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/top">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
-            <LinearLayout
-                android:id="@+id/top"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content">
-
-                <ImageView
-                    android:layout_width="32dp"
-                    android:layout_height="32dp"
-                    android:layout_margin="16dp"
-                    android:onClick="toPosNpp"
-                    android:src="@drawable/ic_arrow_back_black_24dp" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginTop="16dp"
-                    android:layout_marginBottom="16dp"
-                    android:gravity="center_vertical"
-                    android:text="Form POS"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
-            </LinearLayout>
 
             <View
                 android:layout_width="match_parent"
@@ -56,7 +59,6 @@
                     android:id="@+id/noDokumen"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="8dp"
                     android:hint="No. Penjualan" />
 
                 <LinearLayout
@@ -79,26 +81,13 @@
                         android:layout_height="wrap_content" />
                 </LinearLayout>
 
-                <LinearLayout
+                <EditText
+                    android:id="@+id/tglPenjualan"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp">
-
-                    <TextView
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:layout_marginLeft="4dp"
-                        android:layout_weight="1"
-                        android:gravity="center_vertical"
-                        android:text="Tanggal Penjualan"
-                        android:textSize="18sp" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="12dp"
-                        android:src="@drawable/ic_date_range_black_24dp" />
-                </LinearLayout>
+                    android:layout_marginTop="8dp"
+                    android:drawableRight="@drawable/ic_date_range_black_24dp"
+                    android:hint="Tanggal Penjualan" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -162,11 +151,6 @@
                         android:textAlignment="center"
                         android:textColor="#FFFFFF" />
 
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1" />
-
                 </LinearLayout>
 
                 <LinearLayout
@@ -174,27 +158,33 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp">
 
-                    <Button
-                        android:layout_width="120dp"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:background="#3498db"
-                        android:text="Total Harga Netto"
-                        android:textAlignment="center"
-                        android:textColor="#FFFFFF" />
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingRight="16dp">
 
-                    <TextView
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Total Harga Netto"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                    </LinearLayout>
+
+                    <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1" />
-
-                    <Button
-                        android:layout_width="120dp"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
                         android:background="#f39c12"
                         android:text="Pembayaran"
-                        android:textAlignment="center"
+                        android:onClick="toPosKnKoreksiPembayaran"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
                         android:textColor="#FFFFFF" />
                 </LinearLayout>
 
@@ -263,6 +253,7 @@
                         android:layout_width="120dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="right"
+                        android:onClick="toPosKnKoreksiList"
                         android:layout_margin="4dp"
                         android:background="#3498db"
                         android:text="List Produk"
