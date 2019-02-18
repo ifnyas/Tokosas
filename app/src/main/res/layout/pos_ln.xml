@@ -41,6 +41,12 @@
             android:src="@drawable/ic_search_black_24dp" />
     </LinearLayout>
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@id/top" />
+
     <android.support.design.widget.FloatingActionButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -53,12 +59,6 @@
         android:tint="@color/colorLight"
         app:layout_constraintBottom_toBottomOf="@id/page"
         app:layout_constraintRight_toRightOf="@id/page" />
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@android:color/darker_gray"
-        app:layout_constraintTop_toBottomOf="@id/top" />
 
     <LinearLayout
         android:layout_width="match_parent"

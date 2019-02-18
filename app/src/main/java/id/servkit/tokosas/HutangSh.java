@@ -15,8 +15,18 @@ public class HutangSh extends AppCompatActivity {
         setContentView(R.layout.hutang_sh);
     }
 
-    public void toHutangShPenambah(View view) {
-        Intent intent = new Intent(this, HutangShPenambah.class);
+    public void toHutangShLihat(View view) {
+        Intent intent = new Intent(this, HutangShLihat.class);
+        startActivity(intent);
+    }
+
+    public void toMainMenu(View view) {
+        Intent intent = new Intent(this, MainMenu.class);
+        startActivity(intent);
+    }
+
+    public void toHutangShCari(View view) {
+        Intent intent = new Intent(this, HutangShCari.class);
         startActivity(intent);
     }
 }

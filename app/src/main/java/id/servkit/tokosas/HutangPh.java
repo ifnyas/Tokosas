@@ -25,6 +25,11 @@ public class HutangPh extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toHutangPhLihat(View view) {
+        Intent intent = new Intent(this, HutangPhLihat.class);
+        startActivity(intent);
+    }
+
     public void toHutangPhCari(View view) {
         Intent intent = new Intent(this, HutangPhCari.class);
         startActivity(intent);

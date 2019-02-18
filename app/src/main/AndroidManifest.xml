@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PosKnKoreksiList"></activity>
+        <activity android:name=".HutangPhFormDaftarList"></activity>
+        <activity android:name=".HutangPhFormDaftar" />
+        <activity android:name=".HutangPhFormPembayaran" />
+        <activity android:name=".HutangPhLihat" />
+        <activity android:name=".HutangShLihat" />
+        <activity android:name=".HutangDhFormList" />
+        <activity android:name=".HutangDhLihat" />
+        <activity android:name=".PosKnKoreksiList" />
         <activity android:name=".PosLnLihat" />
         <activity android:name=".PosNppProduk" />
         <activity android:name=".PosNppSalesmanTambah" />
@@ -77,7 +84,7 @@
         <activity android:name=".HutangDhFormSummary" />
         <activity android:name=".HutangDhCari" />
         <activity android:name=".HutangSh" />
-        <activity android:name=".HutangShPenambah" />
+        <activity android:name=".HutangShCari" />
         <activity android:name=".HutangPh" />
         <activity android:name=".HutangPhCari" />
         <activity android:name=".PiutangDp" />

@@ -21,11 +21,17 @@ public class HutangDhForm extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toHutangDhFormList(View view) {
+        Intent intent = new Intent(this, HutangDhFormList.class);
+        startActivity(intent);
+    }
+
     public void toHutangDhFormSummary(View view) {
         // setup the alert builder
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Summary Pengurangan Hutang");
-        builder.setMessage("● Default Valuta: \n\n"
+        builder.setMessage(
+                "● Default Valuta: \n\n"
                 + "● Nilai Nota: \n\n"
                 + "● Nilai Tambahan: \n\n"
                 + "● Total Nilai: \n\n"

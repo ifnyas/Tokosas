@@ -614,6 +614,7 @@ color colorLight
 color colorOrange
 color colorPrimary
 color colorPrimaryDark
+color colorRealAccent
 color colorRed
 color colorWhite
 color colorYellow
@@ -1085,7 +1086,9 @@ id blocking
 id bonus
 id bottom
 id brand
+id buttonCancel
 id buttonPanel
+id buttonSubmit
 id center
 id center_horizontal
 id center_vertical
@@ -1194,7 +1197,6 @@ id parentPanel
 id parent_matrix
 id password
 id pelanggan
-id pelunasan
 id percent
 id pin
 id poin
@@ -1257,6 +1259,7 @@ id subkategori
 id submenuarrow
 id submit_area
 id supplier
+id tab
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1364,12 +1367,21 @@ layout design_text_input_password_icon
 layout hutang_dh
 layout hutang_dh_cari
 layout hutang_dh_form
+layout hutang_dh_form_list
 layout hutang_dh_form_summary
+layout hutang_dh_lihat
+layout hutang_dh_ubahextdoc
 layout hutang_ph
 layout hutang_ph_cari
 layout hutang_ph_form
+layout hutang_ph_form_daftar
+layout hutang_ph_form_daftar_list
+layout hutang_ph_form_pembayaran
+layout hutang_ph_form_pembayaran_ubah
+layout hutang_ph_lihat
 layout hutang_sh
-layout hutang_sh_penambah
+layout hutang_sh_cari
+layout hutang_sh_lihat
 layout laporan_lh
 layout main_member
 layout main_menu

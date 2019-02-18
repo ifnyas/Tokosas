@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.PosKnKoreksiList" />
+        <activity android:name="id.servkit.tokosas.PosLnLihat" />
         <activity android:name="id.servkit.tokosas.PosNppProduk" />
         <activity android:name="id.servkit.tokosas.PosNppSalesmanTambah" />
         <activity android:name="id.servkit.tokosas.PosNppSalesman" />

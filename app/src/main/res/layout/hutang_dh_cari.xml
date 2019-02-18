@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/page"
     tools:context=".HutangDhCari">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/page"
         android:orientation="vertical">
 
         <LinearLayout
@@ -17,8 +19,8 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:layout_width="32dp"
-                android:layout_height="32dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="16dp"
                 android:onClick="toHutangDh"
                 android:src="@drawable/ic_arrow_back_black_24dp" />
@@ -29,7 +31,7 @@
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
                 android:gravity="center_vertical"
-                android:text="Cari Hutang"
+                android:text="Cari"
                 android:textSize="20sp"
                 android:textStyle="bold" />
         </LinearLayout>
@@ -41,100 +43,41 @@
             app:layout_constraintTop_toBottomOf="@id/top" />
 
 
-        <LinearLayout
+        <android.support.design.widget.TabLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingTop="16dp"
-            android:paddingRight="16dp">
+            android:id="@+id/tab"
+            app:layout_constraintTop_toBottomOf="@id/top">
 
-            <View
-                android:layout_width="0dp"
-                android:layout_height="1dp"
-                android:layout_weight="1"
-                android:background="@android:color/holo_blue_light"
-                app:layout_constraintTop_toBottomOf="@id/top" />
-
-            <View
-                android:layout_width="0dp"
-                android:layout_height="0dp"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingTop="8dp"
-            android:paddingRight="16dp">
-
-            <TextView
-                android:layout_width="0dp"
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="Penambah Hutang"
-                android:textStyle="bold" />
+                android:text="Penambah Hutang" />
 
-            <TextView
-                android:layout_width="0dp"
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="Pengurang Hutang"
-                android:textStyle="bold" />
-        </LinearLayout>
+                android:text="Pengurang Hutang" />
+        </android.support.design.widget.TabLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
+            android:layout_margin="16dp"
             android:orientation="vertical">
 
-            <LinearLayout
+            <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp">
+                android:drawableRight="@drawable/ic_date_range_black_24dp"
+                android:hint="Tgl Invoice Awal" />
 
-                <TextView
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="4dp"
-                    android:layout_weight="1"
-                    android:gravity="center_vertical"
-                    android:text="Tanggal Invoice Awal"
-                    android:textSize="18sp" />
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginRight="12dp"
-                    android:src="@drawable/ic_date_range_black_24dp" />
-            </LinearLayout>
-
-            <LinearLayout
+            <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp">
-
-                <TextView
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="4dp"
-                    android:layout_weight="1"
-                    android:gravity="center_vertical"
-                    android:text="Tanggal Invoice Akhir"
-                    android:textSize="18sp" />
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginRight="12dp"
-                    android:src="@drawable/ic_date_range_black_24dp" />
-            </LinearLayout>
+                android:layout_marginTop="8dp"
+                android:drawableRight="@drawable/ic_date_range_black_24dp"
+                android:hint="Tgl Invoice Akhir" />
 
             <EditText
                 android:id="@+id/noDokumen"
@@ -170,10 +113,10 @@
             </LinearLayout>
 
             <Button
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_margin="16dp"
+                android:layout_marginTop="16dp"
                 android:background="#3498db"
                 android:text="Cari"
                 android:textAlignment="center"
