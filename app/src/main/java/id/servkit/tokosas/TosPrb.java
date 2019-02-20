@@ -25,8 +25,8 @@ public class TosPrb extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void toPpksForm(View view) {
-        Intent intent = new Intent(this, TosPpksForm.class);
+    public void toTosPrbForm(View view) {
+        Intent intent = new Intent(this, TosPrbForm.class);
         startActivity(intent);
     }
 }

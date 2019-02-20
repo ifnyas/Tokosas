@@ -18,6 +18,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.TosPrbForm" />
+        <activity android:name="id.servkit.tokosas.HutangPhFormDaftarList" />
+        <activity android:name="id.servkit.tokosas.HutangPhFormDaftar" />
+        <activity android:name="id.servkit.tokosas.HutangPhFormPembayaran" />
+        <activity android:name="id.servkit.tokosas.HutangPhLihat" />
+        <activity android:name="id.servkit.tokosas.HutangShLihat" />
+        <activity android:name="id.servkit.tokosas.HutangDhFormList" />
+        <activity android:name="id.servkit.tokosas.HutangDhLihat" />
         <activity android:name="id.servkit.tokosas.PosKnKoreksiList" />
         <activity android:name="id.servkit.tokosas.PosLnLihat" />
         <activity android:name="id.servkit.tokosas.PosNppProduk" />
@@ -86,7 +94,7 @@
         <activity android:name="id.servkit.tokosas.HutangDhFormSummary" />
         <activity android:name="id.servkit.tokosas.HutangDhCari" />
         <activity android:name="id.servkit.tokosas.HutangSh" />
-        <activity android:name="id.servkit.tokosas.HutangShPenambah" />
+        <activity android:name="id.servkit.tokosas.HutangShCari" />
         <activity android:name="id.servkit.tokosas.HutangPh" />
         <activity android:name="id.servkit.tokosas.HutangPhCari" />
         <activity android:name="id.servkit.tokosas.PiutangDp" />

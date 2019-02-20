@@ -1086,6 +1086,7 @@ id blocking
 id bonus
 id bottom
 id brand
+id button
 id buttonCancel
 id buttonPanel
 id buttonSubmit
@@ -1450,6 +1451,7 @@ layout tos_ppks_lookup
 layout tos_ppks_result
 layout tos_prb
 layout tos_prb_cari
+layout tos_prb_form
 layout tos_pwks
 layout tos_pwks_cari
 layout tos_rb
