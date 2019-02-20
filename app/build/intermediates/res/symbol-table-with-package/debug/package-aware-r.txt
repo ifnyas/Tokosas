@@ -1024,6 +1024,7 @@ drawable ic_info_black_24dp
 drawable ic_info_outline_white_24dp
 drawable ic_keyboard_arrow_left_white_24dp
 drawable ic_keyboard_arrow_up_white_24dp
+drawable ic_lock_black_24dp
 drawable ic_menu_black_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1409,6 +1410,7 @@ layout pos_kn_cari
 layout pos_kn_koreksi
 layout pos_kn_koreksi_list
 layout pos_ln
+layout pos_ln_batal
 layout pos_ln_cari
 layout pos_ln_lihat
 layout pos_npp
@@ -1452,6 +1454,7 @@ layout tos_ppks_result
 layout tos_prb
 layout tos_prb_cari
 layout tos_prb_form
+layout tos_prb_lihat
 layout tos_pwks
 layout tos_pwks_cari
 layout tos_rb

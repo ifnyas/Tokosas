@@ -20,6 +20,11 @@ public class TosPrb extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toTosPrbLihat(View view) {
+        Intent intent = new Intent(this, TosPrbLihat.class);
+        startActivity(intent);
+    }
+
     public void toMainMenu(View view) {
         Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);

@@ -4,12 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/page"
     tools:context=".TosPbForm">
 
     <LinearLayout
         android:id="@+id/top"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/page">
 
         <ImageView
             android:layout_width="32dp"
@@ -43,38 +45,39 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="16dp"
             android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp">
+                android:gravity="center">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="16dp"
-                    android:gravity="center"
-                    android:text="Status" />
+                    android:text="Status"
+                    android:textStyle="bold" />
 
-                <Button
+                <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="16dp"
-                    android:background="#2c3e50"
-                    android:text="Baru"
-                    android:textColor="#FFFFFF" />
+                    android:layout_marginLeft="8dp"
+                    android:background="@color/colorDark"
+                    android:paddingLeft="8dp"
+                    android:paddingTop="4dp"
+                    android:paddingRight="8dp"
+                    android:paddingBottom="4dp"
+                    android:text="BARU"
+                    android:textColor="@color/colorLight" />
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_marginRight="16dp"
                 android:orientation="vertical">
 
                 <EditText
-                    android:id="@+id/noDokumen"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
@@ -187,7 +190,7 @@
                         android:layout_marginRight="8dp"
                         android:layout_weight="1"
                         android:background="#3498db"
-                        android:onClick="toTosOpFormSummary"
+                        android:onClick="toTosPbFormSummary"
                         android:text="Summary"
                         android:textAlignment="center"
                         android:textColor="#FFFFFF" />
@@ -199,7 +202,7 @@
                         android:layout_marginRight="8dp"
                         android:layout_weight="1"
                         android:background="#3498db"
-                        android:onClick="toTosOpFormLookup"
+                        android:onClick="toTosPbFormLookup"
                         android:text="Lookup"
                         android:textAlignment="center"
                         android:textColor="#FFFFFF" />
@@ -210,7 +213,7 @@
                         android:layout_gravity="center"
                         android:layout_weight="1"
                         android:background="#3498db"
-                        android:onClick="toTosOpFormList"
+                        android:onClick="toTosPbFormList"
                         android:text="List Produk"
                         android:textAlignment="center"
                         android:textColor="#FFFFFF" />

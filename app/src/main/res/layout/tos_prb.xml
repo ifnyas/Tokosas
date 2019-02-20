@@ -58,7 +58,6 @@
         app:layout_constraintBottom_toBottomOf="@id/page"
         app:layout_constraintRight_toRightOf="@id/page" />
 
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -130,7 +129,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginBottom="8dp"
-                                android:onClick="toTosPrbForm"
+                                android:onClick="toTosPrbLihat"
                                 android:text="LIHAT"
                                 android:padding="8dp"
                                 android:textColor="@color/colorBlue"
