@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TosPrbLihat"></activity>
+        <activity android:name=".PiutangDpFormList"></activity>
+        <activity android:name=".PiutangDpLihat" />
+        <activity android:name=".TosPrbLihat" />
         <activity android:name=".TosPrbForm" />
         <activity android:name=".HutangPhFormDaftarList" />
         <activity android:name=".HutangPhFormDaftar" />

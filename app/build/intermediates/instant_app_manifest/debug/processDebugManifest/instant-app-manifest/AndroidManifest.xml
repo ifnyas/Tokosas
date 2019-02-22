@@ -19,6 +19,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.PiutangDpFormList" />
+        <activity android:name="id.servkit.tokosas.PiutangDpLihat" />
         <activity android:name="id.servkit.tokosas.TosPrbLihat" />
         <activity android:name="id.servkit.tokosas.TosPrbForm" />
         <activity android:name="id.servkit.tokosas.HutangPhFormDaftarList" />

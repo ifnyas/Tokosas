@@ -1372,7 +1372,6 @@ layout hutang_dh_form
 layout hutang_dh_form_list
 layout hutang_dh_form_summary
 layout hutang_dh_lihat
-layout hutang_dh_ubahextdoc
 layout hutang_ph
 layout hutang_ph_cari
 layout hutang_ph_form
@@ -1402,6 +1401,8 @@ layout notification_template_part_time
 layout piutang_dp
 layout piutang_dp_cari
 layout piutang_dp_form
+layout piutang_dp_form_list
+layout piutang_dp_lihat
 layout piutang_pp
 layout piutang_sp
 layout piutang_sp_penambah
@@ -1459,6 +1460,7 @@ layout tos_pwks
 layout tos_pwks_cari
 layout tos_rb
 layout tos_rb_cari
+layout ubahextdoc
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round

@@ -29,7 +29,7 @@ public class HutangDh extends AppCompatActivity {
     }
 
     public void toHutangDhLihat(View view) {
-        Intent intent = new Intent(this, HutangDhForm.class);
+        Intent intent = new Intent(this, HutangDhLihat.class);
         startActivity(intent);
     }
 
@@ -41,7 +41,7 @@ public class HutangDh extends AppCompatActivity {
     public void ubahExtDoc(View view) {
         final AlertDialog dialogBuilder = new AlertDialog.Builder(this).create();
         LayoutInflater inflater = this.getLayoutInflater();
-        View dialogView = inflater.inflate(R.layout.hutang_dh_ubahextdoc, null);
+        View dialogView = inflater.inflate(R.layout.ubahextdoc, null);
 
         Button button1 = dialogView.findViewById(R.id.buttonSubmit);
         Button button2 = dialogView.findViewById(R.id.buttonCancel);
