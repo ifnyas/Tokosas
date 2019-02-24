@@ -1405,7 +1405,8 @@ layout piutang_dp_form_list
 layout piutang_dp_lihat
 layout piutang_pp
 layout piutang_sp
-layout piutang_sp_penambah
+layout piutang_sp_cari
+layout piutang_sp_lihat
 layout pos_kn
 layout pos_kn_cari
 layout pos_kn_koreksi

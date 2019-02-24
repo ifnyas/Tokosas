@@ -20,8 +20,13 @@ public class PiutangSp extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void toPiutangSpPenambah(View view) {
-        Intent intent = new Intent(this, PiutangSpPenambah.class);
+    public void toPiutangSpLihat(View view) {
+        Intent intent = new Intent(this, PiutangSpLihat.class);
+        startActivity(intent);
+    }
+
+    public void toPiutangSpCari(View view) {
+        Intent intent = new Intent(this, PiutangSpCari.class);
         startActivity(intent);
     }
 }

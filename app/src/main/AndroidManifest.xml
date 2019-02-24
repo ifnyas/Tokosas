@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PiutangDpFormList"></activity>
+        <activity android:name=".PiutangSpCari"></activity>
+        <activity android:name=".PiutangDpFormList" />
         <activity android:name=".PiutangDpLihat" />
         <activity android:name=".TosPrbLihat" />
         <activity android:name=".TosPrbForm" />
@@ -95,7 +96,7 @@
         <activity android:name=".PiutangDpForm" />
         <activity android:name=".PiutangDpCari" />
         <activity android:name=".PiutangSp" />
-        <activity android:name=".PiutangSpPenambah" />
+        <activity android:name=".PiutangSpLihat" />
         <activity android:name=".PiutangPp" />
         <activity android:name=".LaporanLh" />
     </application>

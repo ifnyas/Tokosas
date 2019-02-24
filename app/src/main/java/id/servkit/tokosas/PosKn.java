@@ -21,7 +21,7 @@ public class PosKn extends AppCompatActivity {
     }
 
     public void toPosKnKoreksi(View view) {
-        Intent intent = new Intent(this, MainMenu.class);
+        Intent intent = new Intent(this, PosKnKoreksi.class);
         startActivity(intent);
     }
 
