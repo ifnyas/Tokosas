@@ -121,16 +121,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="16dp"
-            android:background="@color/colorBlue"
-            android:textColor="@color/colorLight"
-            android:text="Cari"
-            android:textAlignment="center" />
     </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorBlue"
+        android:text="Cari"
+        android:textAlignment="center"
+        android:textColor="@color/colorLight"
+        app:layout_constraintBottom_toBottomOf="@id/page" />
 
 </android.support.constraint.ConstraintLayout>

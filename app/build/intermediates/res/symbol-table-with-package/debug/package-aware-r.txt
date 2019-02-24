@@ -1017,6 +1017,7 @@ drawable ic_account_circle_black_24dp
 drawable ic_add_black_24dp
 drawable ic_arrow_back_black_24dp
 drawable ic_arrow_drop_down_black_24dp
+drawable ic_assignment_black_24dp
 drawable ic_card_giftcard_black_24dp
 drawable ic_date_range_black_24dp
 drawable ic_delete_black_24dp
@@ -1404,6 +1405,9 @@ layout piutang_dp_form
 layout piutang_dp_form_list
 layout piutang_dp_lihat
 layout piutang_pp
+layout piutang_pp_cari
+layout piutang_pp_form
+layout piutang_pp_lihat
 layout piutang_sp
 layout piutang_sp_cari
 layout piutang_sp_lihat

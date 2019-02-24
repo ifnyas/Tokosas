@@ -18,6 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.PiutangPpForm" />
+        <activity android:name="id.servkit.tokosas.PiutangPpLihat" />
+        <activity android:name="id.servkit.tokosas.PiutangPpCari" />
         <activity android:name="id.servkit.tokosas.PiutangSpCari" />
         <activity android:name="id.servkit.tokosas.PiutangDpFormList" />
         <activity android:name="id.servkit.tokosas.PiutangDpLihat" />
@@ -68,7 +71,7 @@
         <activity android:name="id.servkit.tokosas.Member" />
         <activity android:name="id.servkit.tokosas.MemberPart" />
         <activity android:name="id.servkit.tokosas.MemberSnk" />
-        <activity android:name="id.servkit.tokosas.MemberBonus" />
+        <activity android:name="id.servkit.tokosas.MemberSnk" />
         <activity android:name="id.servkit.tokosas.TosPpks" />
         <activity android:name="id.servkit.tokosas.TosPpksCari" />
         <activity android:name="id.servkit.tokosas.TosPpksForm" />

@@ -18,6 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.PiutangPpForm" />
+        <activity android:name="id.servkit.tokosas.PiutangPpLihat" />
+        <activity android:name="id.servkit.tokosas.PiutangPpCari" />
+        <activity android:name="id.servkit.tokosas.PiutangSpCari" />
         <activity android:name="id.servkit.tokosas.PiutangDpFormList" />
         <activity android:name="id.servkit.tokosas.PiutangDpLihat" />
         <activity android:name="id.servkit.tokosas.TosPrbLihat" />
@@ -64,10 +68,10 @@
         </activity>
         <activity android:name="id.servkit.tokosas.MainMenu" />
         <activity android:name="id.servkit.tokosas.MyAccount" />
-        <activity android:name="id.servkit.tokosas.Member" />
+        <activity android:name="id.servkit.tokosas.MainMember" />
         <activity android:name="id.servkit.tokosas.MemberPart" />
         <activity android:name="id.servkit.tokosas.MemberSnk" />
-        <activity android:name="id.servkit.tokosas.MemberBonus" />
+        <activity android:name="id.servkit.tokosas.MemberSnk" />
         <activity android:name="id.servkit.tokosas.TosPpks" />
         <activity android:name="id.servkit.tokosas.TosPpksCari" />
         <activity android:name="id.servkit.tokosas.TosPpksForm" />
@@ -104,7 +108,7 @@
         <activity android:name="id.servkit.tokosas.PiutangDpForm" />
         <activity android:name="id.servkit.tokosas.PiutangDpCari" />
         <activity android:name="id.servkit.tokosas.PiutangSp" />
-        <activity android:name="id.servkit.tokosas.PiutangSpPenambah" />
+        <activity android:name="id.servkit.tokosas.PiutangSpLihat" />
         <activity android:name="id.servkit.tokosas.PiutangPp" />
         <activity android:name="id.servkit.tokosas.LaporanLh" />
 

@@ -28,7 +28,7 @@
             android:layout_marginBottom="16dp"
             android:layout_weight="1"
             android:gravity="center_vertical"
-            android:text="Daftar Hutang"
+            android:text="Pelunasan Hutang"
             android:textSize="20sp"
             android:textStyle="bold" />
 
