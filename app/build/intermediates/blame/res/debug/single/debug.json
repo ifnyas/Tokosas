@@ -1,23 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_black_24dp.png.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_ppks_cari.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\tos_ppks_cari.xml"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_ppks_cari.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\tos_ppks_cari.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_pb_form_list.xml.flat",
@@ -32,16 +32,16 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\pos_ln.xml"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\406adc27da3f5b6c3be8f17a7c1b161d\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\layout\\mtrl_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\406adc27da3f5b6c3be8f17a7c1b161d\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_card_giftcard_black_24dp.png.flat",
@@ -496,10 +496,6 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_ubahextdoc.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\ubahextdoc.xml"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
     },
@@ -864,12 +860,12 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_pembayaran_ubah.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\dialog_pembayaran_ubah.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_pos_npp_list.xml.flat",
@@ -1364,12 +1360,12 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_piutang_pp_form_daftar_list.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\piutang_pp_form_daftar_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -1668,6 +1664,10 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_kpb_koreksi.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\tos_kpb_koreksi.xml"
+    },
+    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -1934,6 +1934,10 @@
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_rb_form.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\tos_rb_form.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2436,6 +2440,10 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_ubahextdoc.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\dialog_ubahextdoc.xml"
+    },
+    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\de48bc05d1ca95ef07653cb4415fd129\\res\\color\\mtrl_chip_text_color.xml"
     },
@@ -2564,6 +2572,10 @@
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_koreksi.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\dialog_koreksi.xml"
+    },
+    {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Toko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d1d7102c1fad3d307f9b83e09678d16d\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
@@ -2574,6 +2586,10 @@
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_pos_kn_koreksi_list.xml.flat",
         "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\pos_kn_koreksi_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\layout_tos_rb_lihat.xml.flat",
+        "source": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\src\\main\\res\\layout\\tos_rb_lihat.xml"
     },
     {
         "merged": "C:\\Users\\Yas\\AndroidStudioProjects\\Tokosas\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",

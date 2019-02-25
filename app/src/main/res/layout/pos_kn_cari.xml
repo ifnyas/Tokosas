@@ -16,15 +16,13 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:padding="16dp"
             android:onClick="toPosKn"
             android:src="@drawable/ic_arrow_back_black_24dp" />
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_marginTop="16dp"
-            android:layout_marginBottom="16dp"
             android:gravity="center_vertical"
             android:text="Cari"
             android:textSize="20sp"
@@ -45,9 +43,10 @@
         app:layout_constraintTop_toBottomOf="@id/top">
 
         <EditText
-            android:id="@+id/noDokumen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
             android:hint="No. Penjualan" />
 
         <LinearLayout
@@ -57,19 +56,18 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp">
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp">
 
                 <TextView
                     android:layout_width="0dp"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-
                     android:text="Pelanggan"
                     android:textSize="18sp" />
 
                 <Spinner
-                    android:id="@+id/pelanggan"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>
@@ -78,11 +76,12 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
 
             <TextView
                 android:layout_width="0dp"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center_vertical"
                 android:text="Salesman"
@@ -97,7 +96,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
 
             <EditText
                 android:id="@+id/startDate"
@@ -122,15 +122,14 @@
                 android:drawableRight="@drawable/ic_date_range_black_24dp"
                 android:hint="Tgl OP Akhir" />
         </LinearLayout>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="16dp"
-            android:background="@color/colorBlue"
-            android:textColor="@color/colorLight"
-            android:text="Cari"
-            android:textAlignment="center" />
     </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorBlue"
+        android:text="Cari"
+        android:textColor="@color/colorLight"
+        app:layout_constraintBottom_toBottomOf="@id/page" />
 </android.support.constraint.ConstraintLayout>

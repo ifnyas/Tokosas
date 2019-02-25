@@ -21,13 +21,18 @@ public class TosRb extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toTosRbLihat(View view) {
+        Intent intent = new Intent(this, TosRbLihat.class);
+        startActivity(intent);
+    }
+
     public void toMainMenu(View view) {
         Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);
     }
 
-    public void toPpksForm(View view) {
-        Intent intent = new Intent(this, TosPpksForm.class);
+    public void toTosRbForm(View view) {
+        Intent intent = new Intent(this, TosRbForm.class);
         startActivity(intent);
     }
 

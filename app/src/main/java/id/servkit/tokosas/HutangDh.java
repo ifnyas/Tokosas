@@ -41,7 +41,7 @@ public class HutangDh extends AppCompatActivity {
     public void ubahExtDoc(View view) {
         final AlertDialog dialogBuilder = new AlertDialog.Builder(this).create();
         LayoutInflater inflater = this.getLayoutInflater();
-        View dialogView = inflater.inflate(R.layout.ubahextdoc, null);
+        View dialogView = inflater.inflate(R.layout.dialog_ubahextdoc, null);
 
         Button button1 = dialogView.findViewById(R.id.buttonSubmit);
         Button button2 = dialogView.findViewById(R.id.buttonCancel);

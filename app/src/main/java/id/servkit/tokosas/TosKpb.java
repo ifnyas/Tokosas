@@ -21,6 +21,11 @@ public class TosKpb extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toTosKpbKoreksi(View view) {
+        Intent intent = new Intent(this, TosKpbKoreksi.class);
+        startActivity(intent);
+    }
+
     public void toMainMenu(View view) {
         Intent intent = new Intent(this, MainMenu.class);
         startActivity(intent);
