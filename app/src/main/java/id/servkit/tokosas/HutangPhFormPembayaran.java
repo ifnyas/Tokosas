@@ -13,6 +13,8 @@ public class HutangPhFormPembayaran extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+        getSupportActionBar().hide();
         setContentView(R.layout.hutang_ph_form_pembayaran);
     }
 
@@ -24,7 +26,7 @@ public class HutangPhFormPembayaran extends AppCompatActivity {
     public void toHutangPhFormPembayaranUbah(View view) {
         final AlertDialog dialogBuilder = new AlertDialog.Builder(this).create();
         LayoutInflater inflater = this.getLayoutInflater();
-        View dialogView = inflater.inflate(R.layout.hutang_ph_form_pembayaran_ubah, null);
+        View dialogView = inflater.inflate(R.layout.dialog_pembayaran_ubah, null);
 
         Button button1 = dialogView.findViewById(R.id.buttonSubmit);
         Button button2 = dialogView.findViewById(R.id.buttonCancel);

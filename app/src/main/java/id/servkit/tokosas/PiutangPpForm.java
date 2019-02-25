@@ -22,12 +22,12 @@ public class PiutangPpForm extends AppCompatActivity {
     }
 
     public void toPiutangPpFormDaftar(View view) {
-        Intent intent = new Intent(this, HutangPhFormDaftar.class);
+        Intent intent = new Intent(this, PiutangPpFormDaftar.class);
         startActivity(intent);
     }
 
     public void toPiutangPpFormPembayaran(View view) {
-        Intent intent = new Intent(this, HutangPhFormPembayaran.class);
+        Intent intent = new Intent(this, PiutangPpFormPembayaran.class);
         startActivity(intent);
     }
 
