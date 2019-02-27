@@ -12,7 +12,7 @@ public class TosPpksLihatUbah extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
         getSupportActionBar().hide();
-        setContentView(R.layout.tos_ppks_lihat_ubah);
+        setContentView(R.layout.dialog_ppks_lihat_ubah);
     }
 
     public void toTosPpksLihat(View view) {

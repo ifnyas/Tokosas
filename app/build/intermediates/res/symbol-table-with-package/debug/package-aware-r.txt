@@ -1368,6 +1368,9 @@ layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout dialog_koreksi
 layout dialog_pembayaran_ubah
+layout dialog_pengurang_ubah
+layout dialog_ppks_lihat_ubah
+layout dialog_tambahan_ubah
 layout dialog_ubahextdoc
 layout hutang_dh
 layout hutang_dh_cari
@@ -1460,10 +1463,9 @@ layout tos_pb_lihat
 layout tos_ppks
 layout tos_ppks_cari
 layout tos_ppks_form
+layout tos_ppks_form_lookup
 layout tos_ppks_lihat
-layout tos_ppks_lihat_ubah
 layout tos_ppks_list
-layout tos_ppks_lookup
 layout tos_ppks_result
 layout tos_prb
 layout tos_prb_cari

@@ -26,7 +26,7 @@ public class TosPbForm extends AppCompatActivity {
     }
 
     public void toTosPbFormLookup(View view) {
-        Intent intent = new Intent(this, TosPpksLookup.class);
+        Intent intent = new Intent(this, TosPpksFormLookup.class);
         startActivity(intent);
     }
 

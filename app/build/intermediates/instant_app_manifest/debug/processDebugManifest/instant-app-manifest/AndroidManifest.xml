@@ -85,7 +85,7 @@
         <activity android:name="id.servkit.tokosas.TosPpksCari" />
         <activity android:name="id.servkit.tokosas.TosPpksForm" />
         <activity android:name="id.servkit.tokosas.TosPpksList" />
-        <activity android:name="id.servkit.tokosas.TosPpksLookup" />
+        <activity android:name="id.servkit.tokosas.TosPpksFormLookup" />
         <activity android:name="id.servkit.tokosas.TosPpksResult" />
         <activity android:name="id.servkit.tokosas.TosPwks" />
         <activity android:name="id.servkit.tokosas.TosOp" />

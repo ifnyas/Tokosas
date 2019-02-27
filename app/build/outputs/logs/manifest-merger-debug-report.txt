@@ -330,10 +330,10 @@ activity#id.servkit.tokosas.TosPpksList
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:9-49
 	android:name
 		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:78:19-46
-activity#id.servkit.tokosas.TosPpksLookup
-ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:9-51
+activity#id.servkit.tokosas.TosPpksFormLookup
+ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:9-55
 	android:name
-		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:19-48
+		ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:79:19-52
 activity#id.servkit.tokosas.TosPpksResult
 ADDED from C:\Users\Yas\AndroidStudioProjects\Tokosas\app\src\main\AndroidManifest.xml:80:9-51
 	android:name

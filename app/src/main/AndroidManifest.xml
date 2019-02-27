@@ -76,7 +76,7 @@
         <activity android:name=".TosPpksCari" />
         <activity android:name=".TosPpksForm" />
         <activity android:name=".TosPpksList" />
-        <activity android:name=".TosPpksLookup" />
+        <activity android:name=".TosPpksFormLookup" />
         <activity android:name=".TosPpksResult" />
         <activity android:name=".TosPwks" />
         <activity android:name=".TosOp" />
