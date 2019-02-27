@@ -1385,7 +1385,10 @@ layout hutang_ph_lihat
 layout hutang_sh
 layout hutang_sh_cari
 layout hutang_sh_lihat
-layout laporan_lh
+layout laporan_hutang
+layout laporan_penjualan
+layout laporan_piutang
+layout laporan_stok
 layout main_member
 layout main_menu
 layout member_bonus

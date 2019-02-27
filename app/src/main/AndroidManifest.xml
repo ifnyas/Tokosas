@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TosKpbKoreksi"></activity>
+        <activity android:name=".LaporanPenjualan"></activity>
+        <activity android:name=".LaporanStok" />
+        <activity android:name=".LaporanPiutang" />
+        <activity android:name=".TosKpbKoreksi" />
         <activity android:name=".TosRbForm" />
         <activity android:name=".TosRbLihat" />
         <activity android:name=".PiutangPpFormPembayaran" />
@@ -107,7 +110,7 @@
         <activity android:name=".PiutangSp" />
         <activity android:name=".PiutangSpLihat" />
         <activity android:name=".PiutangPp" />
-        <activity android:name=".LaporanLh" />
+        <activity android:name=".LaporanHutang" />
     </application>
 
 </manifest>

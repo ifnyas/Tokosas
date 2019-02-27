@@ -18,6 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="id.servkit.tokosas.LaporanPenjualan" />
+        <activity android:name="id.servkit.tokosas.LaporanStok" />
+        <activity android:name="id.servkit.tokosas.LaporanPiutang" />
         <activity android:name="id.servkit.tokosas.TosKpbKoreksi" />
         <activity android:name="id.servkit.tokosas.TosRbForm" />
         <activity android:name="id.servkit.tokosas.TosRbLihat" />
@@ -116,7 +119,7 @@
         <activity android:name="id.servkit.tokosas.PiutangSp" />
         <activity android:name="id.servkit.tokosas.PiutangSpLihat" />
         <activity android:name="id.servkit.tokosas.PiutangPp" />
-        <activity android:name="id.servkit.tokosas.LaporanLh" />
+        <activity android:name="id.servkit.tokosas.LaporanHutang" />
     </application>
 
 </manifest>

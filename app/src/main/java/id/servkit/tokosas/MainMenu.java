@@ -175,22 +175,27 @@ public class MainMenu extends ExpandableListActivity {
         /* *** ChildData ***/
         Map<String, String> curChildMap53 = new HashMap<>();
         children5.add(curChildMap53);
-        curChildMap53.put("child", "Laporan Rekap Stok");
+        curChildMap53.put("child", "Laporan Rekap / Kartu Stok");
 
         /* *** ChildData ***/
         Map<String, String> curChildMap54 = new HashMap<>();
         children5.add(curChildMap54);
-        curChildMap54.put("child", "Laporan Kartu Stok");
+        curChildMap54.put("child", "Laporan Penjualan");
 
-        /* *** ChildData ***/
-        Map<String, String> curChildMap55 = new HashMap<>();
-        children5.add(curChildMap55);
-        curChildMap55.put("child", "Laporan Penjualan Produk");
+//        /* *** ChildData ***/
+//        Map<String, String> curChildMap54 = new HashMap<>();
+//        children5.add(curChildMap54);
+//        curChildMap54.put("child", "Laporan Kartu Stok");
 
-        /* *** ChildData ***/
-        Map<String, String> curChildMap56 = new HashMap<>();
-        children5.add(curChildMap56);
-        curChildMap56.put("child", "Laporan Penjualan Jasa");
+//        /* *** ChildData ***/
+//        Map<String, String> curChildMap55 = new HashMap<>();
+//        children5.add(curChildMap55);
+//        curChildMap55.put("child", "Laporan Penjualan Produk");
+//
+//        /* *** ChildData ***/
+//        Map<String, String> curChildMap56 = new HashMap<>();
+//        children5.add(curChildMap56);
+//        curChildMap56.put("child", "Laporan Penjualan Jasa");
 
         childData.add(children5);
         /* *************************End Group **************************/
@@ -308,28 +313,20 @@ public class MainMenu extends ExpandableListActivity {
                     case 4:
                         switch (childPosition) {
                             case 0:
-                                Intent intent00 = new Intent(v.getContext(), LaporanLh.class);
+                                Intent intent00 = new Intent(v.getContext(), LaporanHutang.class);
                                 startActivity(intent00);
                                 break;
                             case 1:
-                                Toast.makeText(getBaseContext(), "LRKP",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent01 = new Intent(v.getContext(), LaporanPiutang.class);
+                                startActivity(intent01);
                                 break;
                             case 2:
-                                Toast.makeText(getBaseContext(), "LRS",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent02 = new Intent(v.getContext(), LaporanStok.class);
+                                startActivity(intent02);
                                 break;
                             case 3:
-                                Toast.makeText(getBaseContext(), "LKS",
-                                        Toast.LENGTH_SHORT).show();
-                                break;
-                            case 4:
-                                Toast.makeText(getBaseContext(), "LPP",
-                                        Toast.LENGTH_SHORT).show();
-                                break;
-                            case 5:
-                                Toast.makeText(getBaseContext(), "LPJ",
-                                        Toast.LENGTH_SHORT).show();
+                                Intent intent03 = new Intent(v.getContext(), LaporanPenjualan.class);
+                                startActivity(intent03);
                                 break;
                         }
                         break;
