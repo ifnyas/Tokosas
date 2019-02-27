@@ -53,9 +53,9 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="8dp"
             android:layout_weight="1"
-            android:background="@color/colorRed"
+            android:background="@color/colorLight"
             android:text="CANCEL"
-            android:textColor="@color/colorLight" />
+            android:textColor="@color/colorDark" />
 
         <Button
             android:id="@+id/buttonSubmit"

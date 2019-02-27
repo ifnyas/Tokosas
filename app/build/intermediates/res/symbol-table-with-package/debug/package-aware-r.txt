@@ -1372,6 +1372,7 @@ layout dialog_pengurang_ubah
 layout dialog_ppks_lihat_ubah
 layout dialog_tambahan_ubah
 layout dialog_ubahextdoc
+layout dialogtest
 layout hutang_dh
 layout hutang_dh_cari
 layout hutang_dh_form
