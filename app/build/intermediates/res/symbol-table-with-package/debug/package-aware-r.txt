@@ -1034,6 +1034,7 @@ drawable ic_person_black_24dp
 drawable ic_reply_white_24dp
 drawable ic_search_black_24dp
 drawable ic_store_black_24dp
+drawable ic_tosposlogo
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
