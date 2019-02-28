@@ -83,7 +83,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:background=""
+            android:background="@color/colorDark"
             android:onClick="toResetPass"
             android:text="Reset Password"
             android:textColor="@color/colorLight"
