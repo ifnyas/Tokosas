@@ -1026,6 +1026,7 @@ drawable ic_info_black_24dp
 drawable ic_info_outline_white_24dp
 drawable ic_keyboard_arrow_left_white_24dp
 drawable ic_keyboard_arrow_up_white_24dp
+drawable ic_launcher_foreground
 drawable ic_lock_black_24dp
 drawable ic_menu_black_24dp
 drawable ic_mtrl_chip_checked_black
@@ -1036,6 +1037,7 @@ drawable ic_reply_white_24dp
 drawable ic_search_black_24dp
 drawable ic_store_black_24dp
 drawable ic_tosposlogo
+drawable ic_tospossquare
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
