@@ -1019,6 +1019,7 @@ drawable ic_arrow_back_black_24dp
 drawable ic_arrow_drop_down_black_24dp
 drawable ic_assignment_black_24dp
 drawable ic_card_giftcard_black_24dp
+drawable ic_clear_black_24dp
 drawable ic_date_range_black_24dp
 drawable ic_delete_black_24dp
 drawable ic_edit_black_24dp
@@ -1035,6 +1036,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_person_black_24dp
 drawable ic_reply_white_24dp
 drawable ic_search_black_24dp
+drawable ic_sort_black_24dp
 drawable ic_store_black_24dp
 drawable ic_tosposlogo
 drawable ic_tospossquare
@@ -1133,6 +1135,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fill
 id fill_horizontal
 id fill_vertical

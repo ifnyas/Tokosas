@@ -1,162 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
     tools:context=".TosPpksCari">
 
-    <LinearLayout
-        android:id="@+id/top"
+    <TextView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <ImageView
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:layout_margin="16dp"
-            android:onClick="toTosPpks"
-            android:src="@drawable/ic_arrow_back_black_24dp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginTop="16dp"
-            android:layout_marginBottom="16dp"
-            android:gravity="center_vertical"
-            android:text="Cari"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </LinearLayout>
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@android:color/darker_gray"
-        app:layout_constraintTop_toBottomOf="@id/top" />
+        android:layout_height="match_parent"
+        android:drawableRight="@drawable/ic_arrow_drop_down_black_24dp"
+        android:drawablePadding="8dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center_vertical"
+        android:text="SINAR AGUNG PRASAKINDO, PT"
+        android:textSize="18sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginBottom="16dp"
-        android:orientation="vertical"
-        app:layout_constraintTop_toBottomOf="@+id/top">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:gravity="center_vertical"
-                android:text="SINAR AGUNG PRASAKINDO, PT" />
-
-            <Spinner
-                android:id="@+id/supplier"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
-
-            <EditText
-                android:id="@+id/startDate"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginRight="4dp"
-                android:layout_weight="1"
-                android:hint="01/11/2018"
-                android:textSize="14sp" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:src="@drawable/ic_date_range_black_24dp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:padding="8dp"
-                android:text="s/d" />
-
-            <EditText
-                android:id="@+id/endDate"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginRight="4dp"
-                android:layout_weight="1"
-                android:hint="04/11/2018"
-                android:textSize="14sp" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:src="@drawable/ic_date_range_black_24dp" />
-        </LinearLayout>
+        android:layout_marginBottom="16dp">
 
         <EditText
-            android:id="@+id/noDokumen"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:hint="No. Dokumen" />
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ic_date_range_black_24dp"
+            android:drawablePadding="8dp"
+            android:hint="01/11/2018"
+            android:inputType="date" />
 
-        <LinearLayout
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
+            android:layout_gravity="center_vertical"
+            android:padding="8dp"
+            android:text="S/D" />
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:gravity="center_vertical"
-                android:text="Jenis Transaksi" />
-
-            <Spinner
-                android:id="@+id/jenis"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
+        <EditText
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp">
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:gravity="center_vertical"
-                android:text="Status" />
-
-            <Spinner
-                android:id="@+id/status"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
-        </LinearLayout>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="32dp"
-            android:layout_marginBottom="16dp"
-            android:background="#2980b9"
-            android:text="Cari"
-            android:textAlignment="center"
-            android:textColor="#FFFFFF" />
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ic_date_range_black_24dp"
+            android:drawablePadding="8dp"
+            android:hint="04/11/2018"
+            android:inputType="date" />
     </LinearLayout>
-</android.support.constraint.ConstraintLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="No. Dokumen" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="16dp"
+        android:drawableRight="@drawable/ic_arrow_drop_down_black_24dp"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:text="Jenis Transaksi"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="16dp"
+        android:drawableRight="@drawable/ic_arrow_drop_down_black_24dp"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:text="Status"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorBlue"
+        android:text="Cari"
+        android:textColor="@color/colorLight"
+        app:layout_constraintBottom_toBottomOf="parent" />
+</LinearLayout>
